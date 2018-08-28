@@ -1,0 +1,2186 @@
+Sample	Age	Time_to_death	Alive_Dead	TMB	Drug_Class	Cancer_Type	HR_Gene_Set	BRCA1_Mutation	BRCA2_Mutation	HR_Alternative_Gene_Set
+Group_81807339105	61-70	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87412840994	>71	8	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_41645323073	>71	6	0	9	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_32861164374	>71	21	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94324361493	50-60	4	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_96438604022	31-50	6	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_76911960708	>71	9	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_31709480464	50-60	8	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_91012623044	50-60	12	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5212123686	50-60	12	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_90040723273	>71	4	1	4	CTLA4	Melanoma	0	0	0	0
+Group_66639625580	31-50	10	1	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_76510509645	>71	4	0	1	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_98443208623	50-60	2	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_18106014144	61-70	1	0	9	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_67399835226	<30	8	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_57181762312	50-60	3	0	13	Combo	Melanoma	0	0	0	1
+Group_77726643432	>71	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94191455207	61-70	4	0	13	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_37017218689	>71	39	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_66489514713	>71	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_25406777000	31-50	6	0	4	Combo	Bone Cancer	0	0	0	0
+Group_11805216592	>71	5	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95050867964	31-50	49	1	15	Combo	Melanoma	0	0	0	0
+Group_42121244050	>71	13	0	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_39681634290	31-50	7	0	3	Combo	Melanoma	0	0	0	0
+Group_70186780184	50-60	27	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_10692870727	31-50	18	1	7	Combo	Esophagogastric Cancer	0	0	0	0
+Group_46567925710	>71	11	1	10	PD-1/PDL-1	Melanoma	1	0	0	1
+Group_99537573792	61-70	9	0	11	Combo	Melanoma	0	0	0	0
+Group_6131743827	31-50	19	0	2	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_80180142635	61-70	8	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_86832834548	61-70	0	0	39	Combo	Melanoma	0	0	0	0
+Group_76523868051	50-60	11	0	5	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_95506913810	61-70	7	1	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_53993650986	61-70	4	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_81617307448	31-50	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_93963527888	>71	2	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_35880766919	>71	6	0	22	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_41843948731	61-70	3	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_5466236081	>71	1	0	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_58870630956	50-60	6	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_79924955170	50-60	0	0	47	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_12433431284	>71	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_69469443998	61-70	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_40906374711	61-70	2	0	4	CTLA4	Breast Cancer	0	0	0	0
+Group_10570751988	50-60	0	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_97266516858	61-70	4	0	7	CTLA4	Pancreatic Cancer	0	0	0	0
+Group_69941910248	50-60	1	0	3	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_5486133271	31-50	7	0	10	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	1
+Group_39145375316	61-70	1	0	4	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_45524556117	>71	8	0	15	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_27867046877	>71	5	0	52	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_25864433576	61-70	27	0	26	CTLA4	Melanoma	1	0	0	0
+Group_73657247650	61-70	1	1	10	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_21117661800	61-70	5	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_98260267665	50-60	4	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_52960665162	31-50	20	0	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_44023614746	50-60	27	1	6	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_19449860451	61-70	17	0	13	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_48761867914	31-50	38	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_52755828998	61-70	30	0	46	CTLA4	Melanoma	0	0	0	0
+Group_4030573445	61-70	3	1	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_22971503021	>71	1	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_62223230071	50-60	7	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2682639113	61-70	1	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_18042429796	50-60	5	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_16285426784	61-70	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_45036207138	31-50	14	0	1	PD-1/PDL-1	Hodgkin Lymphoma	1	1	0	1
+Group_59440986239	61-70	3	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_59253316202	61-70	29	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_37728238556	61-70	12	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_16599688840	61-70	13	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_86634440719	>71	5	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_41554354419	50-60	12	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_57081741338	50-60	10	0	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_72408189296	50-60	6	0	59	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_63588202444	50-60	8	0	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_68095392931	31-50	4	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_55326787902	61-70	16	0	2	Combo	Melanoma	0	0	0	0
+Group_90826934067	>71	11	1	39	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_9129815595	61-70	2	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_43954147064	50-60	9	0	38	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_82375162913	50-60	3	1	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99708881537	31-50	2	0	41	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Group_37039070930	61-70	1	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_57763913981	>71	2	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_63806678632	61-70	2	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_51082925656	61-70	3	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_45646889908	<30	13	0	14	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_13361773734	31-50	10	1	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_70573249363	31-50	4	1	35	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_48684331751	>71	3	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2914397515	31-50	8	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	1	0	0	0
+Group_56431681171	31-50	17	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_82852962751	61-70	30	0	18	CTLA4	Melanoma	0	0	0	0
+Group_9529078740	61-70	0	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42984430766	>71	6	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_78682130285	>71	6	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_96840350653	<30	26	1	3	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_57711199602	>71	6	0	69	Combo	Melanoma	0	0	0	0
+Group_34569984064	>71	4	1	7	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_157179294	61-70	1	0	85	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_25931914006	31-50	10	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_64534595094	61-70	27	1	1	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_362061041	61-70	6	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_86324619410	>71	25	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_71388622401	61-70	3	1	7	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_79347751832	50-60	11	1	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_80659523565	>71	1	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_30212458302	50-60	10	0	12	Combo	Melanoma	0	0	0	0
+Group_8328079887	61-70	2	0	32	PD-1/PDL-1	Melanoma	1	0	0	1
+Group_46160988504	>71	1	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_75446492019	50-60	0	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_99632200850	50-60	18	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_56189741512	61-70	19	1	6	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_8181330359	50-60	2	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_27652781834	>71	8	1	5	Combo	Bladder Cancer	0	0	0	0
+Group_42062482578	>71	6	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_19119873356	>71	17	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_23640385717	61-70	4	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_59390259481	>71	6	0	16	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_86061851140	>71	0	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_7753319956	>71	1	1	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_33766317692	31-50	7	0	1	PD-1/PDL-1	Glioma	0	0	0	0
+Group_36236321983	61-70	21	1	3	CTLA4	Ovarian Cancer	0	0	0	0
+Group_42217685540	>71	63	0	42	CTLA4	Melanoma	0	0	0	0
+Group_4885380561	>71	1	1	30	Combo	Melanoma	1	1	0	1
+Group_14908536698	61-70	16	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_63029910083	50-60	26	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_5163665205	61-70	6	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_13860491884	61-70	1	1	4	Combo	Ovarian Cancer	0	0	0	0
+Group_86269261462	>71	12	1	42	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_70300329819	50-60	29	0	42	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_50730154252	61-70	15	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80448486580	61-70	2	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_23155652847	>71	6	1	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_33075009832	61-70	14	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_80446634060	50-60	47	0	4	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Group_38426350065	50-60	2	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_12456805946	61-70	1	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_31379932191	>71	0	0	4	PD-1/PDL-1	Esophagogastric Cancer	1	0	1	1
+Group_28602044000	50-60	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_89917683051	61-70	9	0	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21793626510	61-70	1	0	22	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73974724482	>71	0	1	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_96541344020	61-70	1	0	27	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_44419310598	31-50	6	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_29893308739	>71	0	0	0	Combo	Mesothelioma	0	0	0	0
+Group_41910903210	50-60	16	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_41688523936	31-50	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_12028394640	>71	17	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_23619902962	61-70	1	0	15	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_1202745058	61-70	2	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30853842870	50-60	4	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_68327885016	50-60	2	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_41773562275	50-60	11	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_72433033127	31-50	7	0	16	Combo	Melanoma	0	0	0	0
+Group_24297494400	61-70	7	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_33330018654	>71	14	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_9165932675	31-50	5	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_16013027302	31-50	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_94440513340	61-70	32	0	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_11090169669	31-50	13	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_99476973380	31-50	4	0	1	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_89891752786	50-60	1	0	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_46671257395	61-70	17	0	20	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_72159959119	61-70	5	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99192266365	50-60	1	1	6	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Group_4095268629	31-50	1	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_23577271079	>71	15	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_68407683774	>71	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65443350263	61-70	5	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_8553179890	>71	29	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_94526051153	>71	16	0	1	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_38475043570	>71	25	0	16	Combo	Melanoma	0	0	0	0
+Group_50106548377	61-70	2	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_7640997396	>71	5	1	47	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Group_22925332416	50-60	14	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_5061655487	>71	6	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_94125915392	61-70	7	0	8	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_39569969291	31-50	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_13917428628	31-50	4	1	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_66512395704	61-70	0	0	23	Combo	Melanoma	0	0	0	0
+Group_74633542623	61-70	34	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_48226634579	>71	5	0	5	CTLA4	Prostate Cancer	0	0	0	0
+Group_41372868643	50-60	7	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_33171575439	31-50	2	0	11	Combo	Mesothelioma	0	0	0	0
+Group_47633122859	61-70	33	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_73142717272	31-50	21	1	20	CTLA4	Melanoma	0	0	0	0
+Group_90443985154	>71	11	1	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_16337855077	61-70	5	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_51862973318	50-60	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_79633896468	50-60	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67911079026	31-50	9	0	3	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Group_95013913342	61-70	7	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_872021842	31-50	5	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_23173348530	50-60	15	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_69926175827	31-50	3	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_48914767008	61-70	13	0	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_13695763335	61-70	22	0	8	Combo	Bladder Cancer	1	0	1	1
+Group_58470331192	50-60	5	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_25907708682	31-50	2	1	0	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Group_84513613752	>71	6	0	100	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_19662539996	>71	4	1	2	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_35248686378	61-70	9	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_71878581446	61-70	7	1	7	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_97180351284	50-60	15	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_54033484707	50-60	19	0	16	Combo	Melanoma	0	0	0	0
+Group_27615280534	50-60	11	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_90010552921	31-50	22	1	6	Combo	Melanoma	0	0	0	0
+Group_7440379818	61-70	1	0	3	Combo	Melanoma	0	0	0	0
+Group_90826766438	61-70	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_73768443645	>71	4	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_91244881856	>71	1	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_71107690038	31-50	7	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_59127140393	50-60	8	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_94922323504	50-60	10	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_56377328223	50-60	0	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67685232792	31-50	0	0	1	Combo	Endometrial Cancer	0	0	0	0
+Group_82889638982	61-70	4	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_16252481971	31-50	4	0	3	PD-1/PDL-1	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_67567888800	>71	11	0	15	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_46012299458	>71	7	0	59	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64038709461	31-50	14	1	2	PD-1/PDL-1	Cervical Cancer	1	0	1	1
+Group_94465610603	61-70	12	1	0	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_98370915654	50-60	4	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_74651554561	>71	3	0	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_42413810778	31-50	7	0	5	Combo	Melanoma	0	0	0	0
+Group_24327900517	50-60	7	1	12	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_25723592261	50-60	20	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95441525000	50-60	8	1	8	Combo	Melanoma	0	0	0	0
+Group_24525631580	31-50	9	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_93878199115	50-60	0	1	17	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_590611034	61-70	5	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73483092641	<30	1	0	1	PD-1/PDL-1	Thymic Tumor	0	0	0	0
+Group_60353109074	61-70	3	0	19	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_40552794873	>71	2	1	5	CTLA4	Pancreatic Cancer	0	0	0	0
+Group_12978267971	61-70	3	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_7546561817	50-60	18	0	15	CTLA4	Breast Cancer	0	0	0	0
+Group_1622032083	31-50	4	1	7	Combo	Melanoma	0	0	0	0
+Group_66825822300	>71	0	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_16020328426	50-60	10	1	1	CTLA4	Melanoma	0	0	0	0
+Group_72622164169	50-60	6	0	1	PD-1/PDL-1	Mesothelioma	1	0	0	0
+Group_87374244907	>71	5	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71571797579	<30	11	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Group_61381379550	61-70	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76462425483	>71	3	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_92995285614	31-50	3	1	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_45354766290	61-70	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67225881132	>71	10	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_42361014687	61-70	19	0	19	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_98039299823	>71	17	0	7	Combo	Head and Neck Cancer	0	0	0	0
+Group_64112006544	61-70	3	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_37285351844	31-50	4	1	1	CTLA4	Breast Cancer	1	1	0	1
+Group_48696924470	50-60	28	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_98189424667	50-60	41	1	2	Combo	Melanoma	0	0	0	0
+Group_45074781468	50-60	8	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_39700130159	61-70	14	0	40	Combo	Melanoma	0	0	0	0
+Group_30600834495	31-50	9	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_74544895237	61-70	8	1	43	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_48247657120	>71	14	0	10	CTLA4	Melanoma	0	0	0	0
+Group_6063219601	61-70	6	0	15	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Group_54255348075	50-60	2	1	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_41043682059	61-70	37	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_63947142147	>71	4	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_62259690852	61-70	6	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_524254519	31-50	8	0	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_30410561556	61-70	10	0	21	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_65025772124	31-50	5	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_43068951934	50-60	15	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_87768105952	61-70	19	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_82092969314	61-70	6	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_16064606309	50-60	2	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_61732277146	>71	7	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_47321402492	61-70	9	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_73893395326	61-70	31	0	33	CTLA4	Melanoma	1	0	0	0
+Group_64377026806	>71	12	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15608442173	61-70	1	0	48	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_86127851774	50-60	2	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_46543134601	61-70	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_16708250480	>71	5	0	2	CTLA4	Melanoma	0	0	0	0
+Group_84172305480	>71	14	0	68	Combo	Melanoma	0	0	0	0
+Group_24987555393	61-70	11	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_32982458841	50-60	8	1	7	Combo	Esophagogastric Cancer	0	0	0	0
+Group_70437534048	50-60	1	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_44847828669	61-70	17	0	10	Combo	Bladder Cancer	0	0	0	0
+Group_38416508377	31-50	0	0	6	Combo	NA	0	0	0	0
+Group_41649471250	31-50	17	1	4	CTLA4	Melanoma	0	0	0	0
+Group_47087388506	61-70	8	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_72973007316	31-50	5	0	0	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Group_56731950475	31-50	7	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_75011818164	61-70	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28920442748	50-60	2	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_75122075157	>71	0	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_39701926926	<30	3	1	0	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_27931966411	<30	12	1	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_17243397659	<30	4	1	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_55443307464	61-70	3	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_3180556897	31-50	15	0	8	Combo	Ovarian Cancer	0	0	0	0
+Group_94438449932	61-70	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20525884713	<30	3	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_5813698457	50-60	2	0	10	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_40026881621	31-50	2	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_70984418579	61-70	6	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_78493055628	>71	16	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_82686676802	>71	7	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_46138994490	31-50	23	1	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_30206746367	<30	14	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_8093927411	50-60	18	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_48043288115	61-70	4	1	2	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_67987482393	61-70	4	1	6	CTLA4	Melanoma	1	1	0	1
+Group_62294509538	61-70	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28573443869	50-60	40	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10743667832	>71	10	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_37644413037	>71	2	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_71969166608	>71	12	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_6993353622	61-70	7	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_14121467019	>71	25	0	35	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_3197251186	>71	2	0	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_96697898980	>71	3	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_34446480959	61-70	0	1	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_85869648741	50-60	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_39562413315	61-70	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_61587588041	>71	6	0	10	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_92565439209	61-70	11	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_74400242461	<30	20	0	1	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_985311439	31-50	2	1	1	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_88070098981	>71	7	1	35	CTLA4	Melanoma	1	0	1	1
+Group_7274772037	61-70	15	0	3	Combo	Ovarian Cancer	0	0	0	0
+Group_3562638075	50-60	16	0	8	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Group_31251908318	>71	9	0	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20234375589	>71	0	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_19710053893	50-60	6	1	18	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_89507656795	50-60	3	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76818266398	>71	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_52511002019	61-70	13	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_40736826475	50-60	2	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_83847678508	31-50	52	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83192297357	50-60	11	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_13388913019	>71	6	1	16	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_7456728033	50-60	15	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_59052241311	61-70	20	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_26554110719	50-60	27	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_28478997483	>71	2	1	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_64380817898	<30	3	0	17	Combo	Melanoma	0	0	0	0
+Group_567340344	50-60	2	1	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_79394655834	>71	3	0	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99383960864	>71	8	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_40108353109	>71	13	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_75325522265	>71	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_77384960342	>71	2	1	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10229735929	61-70	26	1	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_37637093000	61-70	4	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_78635137362	61-70	56	0	51	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_22968889417	50-60	8	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_33407345288	50-60	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_57733969978	61-70	26	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_36938364394	31-50	13	1	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_56760474826	61-70	9	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_48282865961	50-60	10	0	0	PD-1/PDL-1	Glioma	0	0	0	0
+Group_2388499636	61-70	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_5058350015	>71	6	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3206003075	61-70	4	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_58698210599	>71	16	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_46273930725	31-50	0	0	0	Combo	Esophagogastric Cancer	0	0	0	0
+Group_62416667261	61-70	5	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_67958057008	61-70	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26998819663	>71	3	0	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_80675064581	<30	3	1	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_44342729116	31-50	21	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_15782761174	>71	9	0	3	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_41964237672	31-50	9	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_26781585204	50-60	3	1	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_19607917727	61-70	1	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_72176881030	50-60	20	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_87154364901	50-60	1	1	52	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_14529024863	>71	0	0	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_29764600354	>71	14	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67416050034	61-70	0	0	0	PD-1/PDL-1	Sellar Tumor	0	0	0	0
+Group_72045736057	50-60	15	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_47402651473	<30	1	1	17	Combo	Melanoma	0	0	0	0
+Group_19173765774	31-50	2	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_97633021173	61-70	14	1	3	PD-1/PDL-1	Endometrial Cancer	1	0	1	1
+Group_13937839380	61-70	10	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40809033137	50-60	9	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_47576254835	<30	9	0	2	PD-1/PDL-1	Hepatobiliary Cancer	1	1	0	1
+Group_34206257971	31-50	12	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_47981296929	>71	4	0	5	PD-1/PDL-1	Endometrial Cancer	1	1	1	1
+Group_24914613708	31-50	17	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_45099627432	50-60	15	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_30342231164	61-70	10	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_79633388147	<30	3	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_14524572839	61-70	23	0	4	Combo	Renal Cell Carcinoma	1	1	0	1
+Group_57021065269	61-70	32	1	19	CTLA4	Melanoma	1	0	0	1
+Group_20293207659	50-60	18	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_12192016516	>71	3	0	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_14871818467	50-60	2	0	2	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_56362895730	50-60	3	0	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_36873724022	>71	15	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_19104843975	>71	13	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_50046902643	61-70	11	0	0	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_38019778497	>71	10	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	1
+Group_72409891431	>71	13	1	11	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_33780169935	61-70	10	0	21	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_85434269614	>71	13	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_57968111397	50-60	1	1	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_47508989544	50-60	1	0	43	Combo	Endometrial Cancer	0	0	0	1
+Group_76983230158	50-60	0	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73006929854	>71	12	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_31774886076	>71	8	0	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_3494787701	50-60	19	0	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_28405064106	50-60	4	0	53	PD-1/PDL-1	Glioma	1	1	0	1
+Group_19453342540	>71	2	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_19616621718	50-60	22	0	3	CTLA4	Prostate Cancer	1	1	0	1
+Group_72749526249	>71	17	0	44	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_8425322829	>71	5	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_19287770609	50-60	11	1	7	Combo	Melanoma	0	0	0	0
+Group_59293500978	50-60	13	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_81818703167	>71	18	0	25	Combo	Bladder Cancer	0	0	0	0
+Group_97731107252	61-70	11	1	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_24535916524	>71	18	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42997407436	61-70	0	0	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_23681730301	>71	3	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_27073991025	>71	2	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_93331329383	>71	21	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_95585275447	31-50	4	0	6	Combo	Cervical Cancer	0	0	0	0
+Group_35562096152	50-60	1	1	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_1758847191	61-70	2	0	2	Combo	Pancreatic Cancer	0	0	0	0
+Group_66778958100	50-60	14	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_29434546879	50-60	57	0	21	CTLA4	Melanoma	0	0	0	0
+Group_58787999867	50-60	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95930145407	61-70	7	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_62424304443	61-70	9	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_60208845865	61-70	1	0	43	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Group_37815778813	31-50	10	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_65591141153	>71	6	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_77005330265	50-60	0	0	4	PD-1/PDL-1	Breast Cancer	1	0	1	1
+Group_88055894754	61-70	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_24142496715	>71	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87569988683	50-60	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_28252282814	31-50	23	0	1	PD-1/PDL-1	Germ Cell Tumor	0	0	0	0
+Group_77005412059	61-70	13	0	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_77032933845	31-50	8	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_56312714881	31-50	13	0	4	Combo	Ovarian Cancer	0	0	0	0
+Group_40252469047	61-70	2	1	22	Combo	Melanoma	1	1	0	1
+Group_94168055114	61-70	13	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_67586558985	>71	6	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_63803382879	50-60	22	0	36	Combo	Melanoma	0	0	0	0
+Group_30687830106	>71	5	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_54272054881	61-70	1	0	2	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_21661701077	61-70	2	1	9	PD-1/PDL-1	Small Cell Lung Cancer	1	0	0	0
+Group_26567645450	31-50	12	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_78606853294	61-70	3	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_81937786185	50-60	10	1	0	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_21247790983	>71	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_92649297087	>71	4	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_80553876307	61-70	0	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_50574574316	>71	2	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_40144547453	50-60	4	0	5	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_12511267179	61-70	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42749874911	31-50	35	0	10	CTLA4	Melanoma	0	0	0	0
+Group_88466694722	31-50	5	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_69663659620	50-60	4	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_83915831826	<30	3	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_51465597860	>71	6	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_85089322319	31-50	38	0	15	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	1
+Group_53596580174	31-50	6	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_27741247707	50-60	1	0	7	Combo	Small Cell Lung Cancer	1	1	1	1
+Group_77951123226	31-50	3	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_60199088297	61-70	14	1	3	Combo	Melanoma	0	0	0	0
+Group_84059518552	<30	8	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_31546344299	31-50	13	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_97600873470	61-70	1	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_70710816135	31-50	12	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40596722953	>71	6	1	20	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_65215398103	31-50	12	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_36643716755	<30	11	1	2	Combo	Melanoma	0	0	0	0
+Group_59197674962	50-60	6	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_85511118349	>71	1	0	3	Combo	Esophagogastric Cancer	0	0	0	0
+Group_86772176724	31-50	2	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_74819975078	31-50	4	0	0	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_83953251667	31-50	2	0	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_44174447290	50-60	47	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_84957790729	>71	32	1	9	Combo	Melanoma	0	0	0	0
+Group_30192152153	>71	17	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_33057481699	31-50	11	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_936667653	>71	16	1	7	CTLA4	Melanoma	1	0	0	0
+Group_88191993121	61-70	12	0	12	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_70931337222	>71	4	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_91144226777	>71	11	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_12410444103	>71	12	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_10019450844	61-70	1	1	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_55835241399	61-70	11	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_69379658110	61-70	3	1	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_14405569493	50-60	1	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_12063444505	>71	6	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_34001664740	61-70	36	0	126	Combo	Melanoma	1	0	1	1
+Group_57829247079	50-60	0	0	1	Combo	Melanoma	0	0	0	0
+Group_35990938151	>71	3	1	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_64340984164	50-60	5	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_92209219746	>71	10	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_85357166171	31-50	30	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_59890339859	31-50	29	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99516753877	>71	12	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_51989459288	61-70	3	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_40412672674	31-50	13	0	2	Combo	Melanoma	0	0	0	0
+Group_18536708691	61-70	9	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_43179697181	>71	12	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_77996586842	61-70	6	0	2	Combo	Melanoma	1	1	0	1
+Group_18825378143	50-60	14	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_6199572789	31-50	9	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_15572803043	>71	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_89723436285	31-50	7	0	7	Combo	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_32325342215	>71	9	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_27280825542	>71	0	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_74179794090	61-70	34	0	8	CTLA4	Melanoma	0	0	0	0
+Group_40394933498	61-70	7	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_8148645869	50-60	11	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_36547173986	>71	2	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_18279272364	61-70	8	0	8	Combo	Melanoma	0	0	0	0
+Group_55524246948	31-50	2	1	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_39773061246	61-70	15	0	35	Combo	Melanoma	1	0	1	1
+Group_46431318042	>71	5	0	24	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_44238178654	61-70	15	0	210	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_37105548351	31-50	0	1	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_354325518	50-60	8	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_62808276619	>71	15	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_48048353910	>71	31	0	3	CTLA4	Prostate Cancer	1	0	0	0
+Group_34540777824	>71	25	0	67	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_2486986629	31-50	12	1	4	Combo	Colorectal Cancer	0	0	0	0
+Group_43344016571	>71	15	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_115450964	31-50	6	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_74933889853	50-60	34	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_68413697284	61-70	0	1	1	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_51423536539	50-60	16	0	10	Combo	Melanoma	0	0	0	0
+Group_87400590538	61-70	13	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_66954212065	61-70	7	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_90763329176	31-50	5	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_41946980245	50-60	5	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_38146137824	50-60	2	1	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_93991775351	50-60	6	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_76928770138	61-70	15	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_25646071281	>71	2	1	0	Combo	Melanoma	0	0	0	0
+Group_2428810792	50-60	24	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_81191778306	>71	9	0	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_76176440746	<30	15	1	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_1052032491	61-70	12	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_19441416727	50-60	3	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_17595701954	>71	1	0	2	PD-1/PDL-1	Ovarian Cancer	1	0	0	0
+Group_30553124218	>71	25	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_96671782639	61-70	3	1	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_63668331963	>71	3	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_19043006388	61-70	9	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_64703664036	31-50	7	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_75484722764	50-60	12	0	9	PD-1/PDL-1	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Group_85298896273	50-60	5	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_75725799709	50-60	11	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94156765592	61-70	9	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_84007199170	61-70	0	1	12	PD-1/PDL-1	Breast Cancer	1	0	0	0
+Group_27999822142	31-50	12	1	5	Combo	Head and Neck Cancer	0	0	0	0
+Group_41741384624	61-70	1	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_48497747976	50-60	13	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_70701811533	>71	8	0	47	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_87201887015	61-70	6	0	5	PD-1/PDL-1	Ovarian Cancer	1	0	1	1
+Group_54403313256	61-70	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26217992435	61-70	8	0	13	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_27915474679	50-60	20	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10005546907	31-50	14	0	14	Combo	Melanoma	0	0	0	0
+Group_40670422370	61-70	1	0	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_3186549940	61-70	5	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_51097518931	>71	8	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_63979451580	61-70	2	1	2	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_16455966620	61-70	13	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_6890796368	50-60	12	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_19889509607	50-60	0	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_84277327012	61-70	1	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_22356417690	>71	8	1	9	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Group_10908496676	50-60	13	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_78964427442	61-70	5	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_86188492380	50-60	1	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_74784688133	50-60	13	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_85793303758	>71	1	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_79911379126	61-70	10	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_35846011874	50-60	1	0	4	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_35467157744	61-70	10	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_74117373722	31-50	12	1	25	Combo	Bladder Cancer	0	0	0	0
+Group_23298746435	50-60	2	1	6	Combo	Head and Neck Cancer	0	0	0	0
+Group_12909815163	61-70	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4597499642	50-60	14	0	0	PD-1/PDL-1	Appendiceal Cancer	0	0	0	0
+Group_82014910133	31-50	6	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_16259908276	50-60	6	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_3804738026	50-60	4	0	4	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_56532905938	>71	4	1	36	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_80892080498	61-70	9	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_9846651536	>71	1	1	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_50192448834	>71	1	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4785008153	61-70	26	0	0	CTLA4	Prostate Cancer	0	0	0	0
+Group_72659665512	50-60	20	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5894569075	61-70	2	1	153	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_10540854252	>71	6	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_23298693357	>71	3	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_72463909583	61-70	21	0	18	CTLA4	Melanoma	0	0	0	0
+Group_71044778250	61-70	5	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87402312578	>71	3	0	46	PD-1/PDL-1	Soft Tissue Sarcoma	1	0	0	1
+Group_45205659555	61-70	19	0	12	Combo	Melanoma	0	0	0	0
+Group_51060568523	61-70	9	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_11299711099	<30	5	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Group_61373471313	>71	1	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_62165997431	>71	69	0	183	CTLA4	Melanoma	1	0	1	1
+Group_95481314642	61-70	8	0	9	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_16799886716	61-70	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_82884362105	61-70	39	0	9	Combo	Melanoma	0	0	0	0
+Group_96842943181	31-50	5	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_99843857618	31-50	20	0	8	Combo	Melanoma	0	0	0	0
+Group_54327553377	50-60	12	0	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_72722542875	50-60	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_65771508998	61-70	22	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_89217404124	61-70	9	0	29	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_73613566511	61-70	9	1	14	PD-1/PDL-1	Colorectal Cancer	1	0	0	1
+Group_22644396160	50-60	13	0	63	PD-1/PDL-1	Glioma	0	0	0	0
+Group_35173805641	31-50	1	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_6229616910	50-60	5	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_69385597906	>71	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_47279004916	50-60	7	0	2	Combo	Breast Cancer	0	0	0	0
+Group_76675988922	31-50	1	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_8216834476	50-60	21	0	3	CTLA4	Melanoma	0	0	0	0
+Group_4386074627	<30	10	1	2	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_59083577483	61-70	6	1	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_68176371095	61-70	28	0	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_99470524281	61-70	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_39578471056	>71	8	0	36	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_60512909936	31-50	3	1	30	PD-1/PDL-1	Glioma	1	0	0	0
+Group_23046425309	50-60	24	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_13964510742	61-70	10	1	2	CTLA4	Mesothelioma	0	0	0	0
+Group_62979829737	>71	25	0	7	Combo	Bladder Cancer	1	0	1	1
+Group_42723036126	50-60	10	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_60841120593	31-50	4	1	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_45484283992	50-60	5	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_49899705681	>71	25	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_20437048543	>71	0	0	5	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_55845871023	61-70	10	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_96593013006	>71	2	0	42	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_17833283081	50-60	2	1	4	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_68588679544	61-70	9	1	17	PD-1/PDL-1	Non-Hodgkin Lymphoma	1	0	1	1
+Group_29900687477	61-70	38	0	3	Combo	Melanoma	0	0	0	0
+Group_63728055405	50-60	5	0	1	CTLA4	Melanoma	0	0	0	0
+Group_24871127795	31-50	20	0	17	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_65437053265	50-60	5	1	5	Combo	Head and Neck Cancer	0	0	0	0
+Group_71103554660	50-60	1	0	8	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_84944918535	61-70	10	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Group_12887919734	>71	3	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_1212986774	50-60	28	0	0	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_79576142526	31-50	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_14299715101	>71	8	1	0	CTLA4	Mesothelioma	0	0	0	0
+Group_45827926934	61-70	17	1	4	Combo	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_84893003700	>71	11	0	3	Combo	Esophagogastric Cancer	0	0	0	0
+Group_55264629933	31-50	6	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_93016332060	61-70	43	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_87973122845	61-70	1	1	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_14112043481	50-60	54	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36158654133	>71	6	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_43355541941	50-60	3	1	1	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_71528653788	50-60	10	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_76739666974	>71	46	0	6	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_95324953350	31-50	68	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_61787088161	>71	11	0	7	PD-1/PDL-1	Bladder Cancer	1	1	0	1
+Group_64490244215	>71	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15805634353	61-70	12	0	5	Combo	Melanoma	0	0	0	0
+Group_99182302292	61-70	4	0	16	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_44581305161	50-60	36	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_71981632980	61-70	0	1	2	Combo	Ovarian Cancer	0	0	0	0
+Group_61661086682	61-70	2	1	11	Combo	Melanoma	0	0	0	0
+Group_10291084847	61-70	9	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83558156277	>71	1	0	18	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_52303040343	61-70	9	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_57178092878	>71	21	0	5	Combo	Melanoma	0	0	0	0
+Group_42971401137	>71	5	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_55681793510	>71	2	0	53	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Group_42536693393	50-60	17	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98626267882	>71	4	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_21339388867	61-70	2	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_41801260723	61-70	1	1	7	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_8979450300	>71	5	1	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_40729257462	61-70	17	1	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_75245715941	50-60	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15617977999	61-70	0	0	0	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_89131997752	61-70	11	0	7	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_75555638274	61-70	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_5755570379	>71	4	0	18	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_27027363021	61-70	27	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_33710453333	50-60	3	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_8068864210	>71	0	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_64839099885	61-70	4	1	11	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_50454656963	61-70	3	0	8	Combo	Esophagogastric Cancer	0	0	0	0
+Group_12221999594	61-70	22	0	2	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_59051552654	61-70	34	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_9595923899	>71	3	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_79771889973	61-70	4	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_68458136056	>71	5	0	29	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_59332610230	31-50	29	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_54630965883	50-60	10	0	11	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_65519231643	50-60	16	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_8386185504	>71	17	0	47	Combo	Breast Cancer	0	0	0	1
+Group_75208150370	>71	39	0	11	CTLA4	Melanoma	0	0	0	0
+Group_8263857239	61-70	18	0	21	Combo	Melanoma	1	1	0	1
+Group_60538400531	61-70	6	1	9	Combo	Esophagogastric Cancer	0	0	0	0
+Group_46415270548	50-60	5	0	9	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_6396835875	<30	0	0	3	PD-1/PDL-1	CNS Cancer	0	0	0	0
+Group_57149850179	50-60	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_86558653571	>71	6	1	2	Combo	Ovarian Cancer	0	0	0	0
+Group_42254140532	31-50	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5637897950	50-60	22	0	9	Combo	Melanoma	0	0	0	0
+Group_50389722351	50-60	3	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_54570239961	61-70	2	1	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_93903605892	50-60	11	0	7	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_37660996684	50-60	11	0	4	Combo	Ovarian Cancer	0	0	0	1
+Group_89643851924	50-60	16	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_56076429914	>71	12	0	2	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_21962855522	61-70	14	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_74555633902	31-50	2	0	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_81633802031	50-60	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_42860687729	<30	5	0	2	Combo	Cancer of Unknown Primary	0	0	0	0
+Group_32529070554	31-50	2	0	0	Combo	Melanoma	0	0	0	0
+Group_12819753141	50-60	9	1	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_82681107683	50-60	22	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_78615532072	61-70	9	1	6	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_52383668704	61-70	13	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_53101500907	61-70	1	0	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_50621272974	61-70	10	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_54598393671	<30	4	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_54708728714	50-60	4	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_79428327258	31-50	28	0	2	Combo	Esophagogastric Cancer	0	0	0	0
+Group_92359540457	61-70	3	1	21	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_85262247727	61-70	0	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_37310836002	>71	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65396028454	31-50	7	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_94687633145	50-60	15	0	44	Combo	Melanoma	0	0	0	0
+Group_49677930313	>71	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_16161633058	50-60	32	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_3372892573	31-50	58	1	13	CTLA4	Melanoma	0	0	0	0
+Group_98233668332	31-50	2	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_65878528545	61-70	12	0	13	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_47373331031	31-50	4	1	12	Combo	Esophagogastric Cancer	0	0	0	0
+Group_27064438815	61-70	0	0	3	Combo	Melanoma	0	0	0	0
+Group_21902748889	>71	1	0	164	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_66405603437	61-70	8	1	4	PD-1/PDL-1	Head and Neck Cancer	1	0	1	1
+Group_46008529820	31-50	2	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_87619508011	61-70	14	0	64	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	0	0	0
+Group_16062004177	61-70	13	1	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_32565163948	31-50	9	1	2	Combo	Esophagogastric Cancer	1	1	0	1
+Group_60395807381	61-70	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_1843594718	>71	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98860502921	>71	13	0	2	Combo	Melanoma	0	0	0	0
+Group_46056196949	>71	7	1	8	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Group_37195556766	31-50	0	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_70343251035	61-70	7	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_43515616243	>71	33	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_28839781682	>71	4	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_59375524053	>71	0	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_33085680	61-70	19	1	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_88052904887	61-70	3	0	1	CTLA4	Bone Cancer	0	0	0	0
+Group_45973692102	31-50	1	0	10	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_43797756542	>71	1	1	17	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_42131846320	61-70	3	0	9	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_88947477176	50-60	8	0	26	Combo	Melanoma	0	0	0	0
+Group_40258564895	31-50	4	0	14	Combo	Melanoma	0	0	0	0
+Group_49293405347	61-70	13	1	3	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_1043488348	>71	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_25413386424	50-60	8	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_67897763220	61-70	7	1	11	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Group_59285227981	61-70	10	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_93958864253	31-50	36	0	13	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_61667690242	61-70	5	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_45064592256	>71	18	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_7983020473	31-50	0	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_99823773503	50-60	16	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_56754769419	>71	4	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_8467851439	61-70	6	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_70098152957	>71	19	0	3	Combo	Melanoma	0	0	0	0
+Group_8993517161	61-70	16	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_2350087730	>71	3	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_22413053024	61-70	1	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_59508963510	>71	0	0	2	Combo	Mesothelioma	0	0	0	0
+Group_46056054988	>71	4	1	6	Combo	Bladder Cancer	0	0	0	1
+Group_69234043282	50-60	3	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65894865106	>71	29	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_71175691354	31-50	0	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_44562892302	>71	3	1	23	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_77410931675	61-70	17	0	2	Combo	Ovarian Cancer	0	0	0	0
+Group_66726557201	<30	6	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_67029144475	61-70	23	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_70940835476	50-60	22	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_77979951780	>71	3	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_78503117484	50-60	1	0	1	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_9089762267	61-70	5	0	18	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_11827213174	>71	25	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_8536673425	61-70	11	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_16450310795	31-50	4	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_46566236614	>71	9	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_79199229570	61-70	0	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_5888579344	61-70	11	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_87869351913	50-60	5	1	1	CTLA4	Melanoma	0	0	0	0
+Group_1356583362	>71	47	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_73953198815	61-70	1	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_51090579811	50-60	2	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_91684604035	61-70	0	0	10	Combo	Endometrial Cancer	0	0	0	0
+Group_62753157406	61-70	10	0	11	Combo	Melanoma	0	0	0	0
+Group_30479381611	61-70	18	1	1	CTLA4	Mesothelioma	0	0	0	0
+Group_38033838960	50-60	4	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_33811224001	50-60	9	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_38149274020	>71	20	0	45	Combo	Melanoma	1	0	1	1
+Group_3235925675	50-60	16	1	2	CTLA4	Soft Tissue Sarcoma	0	0	0	0
+Group_95484195492	50-60	1	1	25	PD-1/PDL-1	Bladder Cancer	1	1	0	1
+Group_92239514096	31-50	1	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_40859573244	>71	7	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73752247393	>71	2	1	4	Combo	Head and Neck Cancer	0	0	0	1
+Group_59778660585	>71	4	0	14	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_9106879619	50-60	4	0	4	Combo	Glioma	0	0	0	1
+Group_16120885962	>71	7	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_60409268835	61-70	15	0	9	Combo	Ovarian Cancer	0	0	0	0
+Group_69653504149	61-70	32	0	1	CTLA4	Melanoma	0	0	0	0
+Group_74115650253	61-70	8	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_79870769607	31-50	9	0	4	PD-1/PDL-1	Embryonal Tumor	0	0	0	0
+Group_1953426180	>71	2	0	11	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_54400501739	61-70	4	1	0	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_73034527970	61-70	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Group_33872229976	61-70	29	0	1	CTLA4	Prostate Cancer	1	1	0	1
+Group_40399205435	>71	5	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_24328028564	50-60	8	0	5	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Group_83175745454	31-50	14	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_90366788312	>71	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_33478974134	>71	20	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20367078696	61-70	4	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_10369964453	31-50	5	1	51	PD-1/PDL-1	Glioma	1	0	1	1
+Group_74348476094	61-70	21	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_44953982730	>71	7	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_97061991030	31-50	5	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_24711765717	31-50	35	0	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_16772423164	>71	4	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99887106135	>71	7	0	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_28728076643	>71	1	1	5	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_435094903	50-60	9	0	9	Combo	Ovarian Cancer	1	1	0	1
+Group_78194401529	>71	5	0	96	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_87650292459	61-70	6	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64186065441	>71	16	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_31293779080	>71	13	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_28298486400	>71	14	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_47439936864	61-70	1	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_23724736344	>71	10	0	11	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10190161244	50-60	6	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_1442775251	50-60	2	1	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67938165393	61-70	29	0	4	Combo	Glioma	0	0	0	0
+Group_5575449730	50-60	12	0	5	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_99538570992	61-70	7	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87912733496	61-70	35	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_31679947235	61-70	11	0	31	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_98675998560	>71	5	0	14	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_93027200190	>71	2	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_38184879948	31-50	5	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_38111791504	61-70	3	1	4	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_30770066004	61-70	3	0	48	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_52399218420	31-50	4	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_68571942380	50-60	6	0	26	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_37343759217	61-70	15	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_40582074874	>71	6	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9209616334	61-70	6	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	1
+Group_79653627518	61-70	4	1	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_61434947526	<30	0	1	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_20306433404	61-70	4	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_9490169944	31-50	23	1	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_74105633297	31-50	17	1	52	PD-1/PDL-1	Endometrial Cancer	1	0	0	0
+Group_70326048677	61-70	10	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_15660380616	31-50	56	0	16	CTLA4	Melanoma	0	0	0	0
+Group_83148251542	>71	6	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7455398994	61-70	25	1	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_93218699276	61-70	3	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_70658991380	>71	25	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_32719348187	31-50	1	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_47054603624	>71	13	1	152	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_41743837625	61-70	30	0	17	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_44037320743	31-50	1	1	2	Combo	Melanoma	0	0	0	0
+Group_54579763396	<30	7	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_63537477071	50-60	4	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_6751858463	31-50	2	1	0	PD-1/PDL-1	Mesothelioma	1	0	1	1
+Group_53400792635	50-60	21	0	11	Combo	Melanoma	0	0	0	0
+Group_93696056126	31-50	5	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_88906872108	61-70	11	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_37111774174	>71	10	1	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_63223788488	31-50	18	0	4	CTLA4	Breast Cancer	1	0	1	1
+Group_39166830943	31-50	7	0	67	PD-1/PDL-1	Head and Neck Cancer	1	0	0	1
+Group_28741463078	61-70	3	0	15	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_49566901580	50-60	16	0	23	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_10871453756	61-70	49	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_13759575244	>71	3	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_49654701551	>71	9	1	17	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_8826528595	>71	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_38330462661	31-50	43	0	4	CTLA4	Melanoma	0	0	0	0
+Group_12088257214	>71	4	0	92	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_33225103688	61-70	24	0	4	CTLA4	Prostate Cancer	0	0	0	0
+Group_61613564884	31-50	28	0	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_18745049531	61-70	0	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_39977734137	<30	18	0	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_9337154797	>71	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_75322672602	61-70	6	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_4917071935	>71	1	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_66981630587	50-60	6	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Group_12247734975	61-70	13	0	27	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_51916403221	>71	0	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_27167334178	61-70	7	0	4	CTLA4	Mesothelioma	0	0	0	0
+Group_72138857387	50-60	7	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_27069017856	61-70	2	1	6	Combo	Melanoma	0	0	0	0
+Group_63929075953	61-70	0	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_37903884053	50-60	23	0	16	Combo	Melanoma	0	0	0	0
+Group_48376677756	61-70	33	0	42	CTLA4	Melanoma	0	0	0	1
+Group_935441447	50-60	8	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_77299586172	31-50	1	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_62779828659	50-60	21	0	19	Combo	Melanoma	0	0	0	0
+Group_35193342044	31-50	8	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_39211451520	>71	26	0	9	Combo	Melanoma	1	1	0	1
+Group_94580171013	31-50	15	0	0	Combo	NA	0	0	0	0
+Group_94155748533	61-70	9	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_77546305251	50-60	3	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_8521213762	61-70	5	0	2	PD-1/PDL-1	Sex Cord Stromal Tumor	0	0	0	0
+Group_3837434069	61-70	6	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_14227309357	50-60	0	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_99105412404	50-60	18	0	5	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_29427738471	>71	2	0	9	PD-1/PDL-1	Endometrial Cancer	0	0	0	1
+Group_51442875603	>71	7	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_61143021538	50-60	5	1	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_72249822830	61-70	17	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_51681026013	>71	1	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_25839365239	>71	30	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_2066242435	61-70	11	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4708955986	61-70	12	0	0	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_36835389889	31-50	2	0	8	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_42512028665	61-70	14	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_625935500	50-60	6	0	8	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_32309080664	31-50	11	0	5	CTLA4	Breast Cancer	0	0	0	0
+Group_47175759129	31-50	23	0	6	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_42584156640	61-70	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_93890736799	>71	29	0	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_46573129355	61-70	33	0	18	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_3819628006	>71	1	1	5	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Group_86556925941	>71	14	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_78534286813	61-70	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_69187905045	50-60	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_8144971788	31-50	32	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_24676501918	61-70	33	1	8	Combo	Melanoma	0	0	0	0
+Group_17418673347	61-70	11	1	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	1
+Group_58705740062	31-50	9	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40596381743	>71	2	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_53971763478	50-60	11	0	2	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_75992695231	<30	2	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_12469712777	>71	8	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10760003164	50-60	8	0	3	Combo	Melanoma	0	0	0	0
+Group_37702665202	>71	20	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_23846688234	31-50	3	1	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_7320003482	61-70	5	1	2	Combo	Ovarian Cancer	0	0	0	0
+Group_56228731817	31-50	4	1	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_61085464375	31-50	0	1	9	PD-1/PDL-1	Glioma	0	0	0	0
+Group_24132155301	31-50	20	0	66	PD-1/PDL-1	Colorectal Cancer	1	1	1	1
+Group_1671414195	31-50	4	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_77724427671	50-60	3	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87601757507	50-60	34	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_10812469718	>71	5	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_82572984836	50-60	4	0	7	PD-1/PDL-1	Glioma	0	0	0	0
+Group_46688845989	31-50	15	0	61	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_45778921441	61-70	8	0	21	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_59098888740	>71	0	0	50	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	1
+Group_72874508584	61-70	20	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_23724816308	61-70	0	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_71837716596	61-70	3	1	9	Combo	Melanoma	0	0	0	0
+Group_98652216499	>71	7	0	29	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_11729300438	61-70	28	0	23	CTLA4	Melanoma	1	0	0	1
+Group_23265738659	>71	10	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_19293854811	61-70	7	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_59279952413	61-70	40	0	8	Combo	Melanoma	0	0	0	0
+Group_59084317623	50-60	18	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_70336762253	50-60	2	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73423532375	61-70	8	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_36112536662	61-70	4	1	13	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_13063439459	>71	3	0	37	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_67874782818	61-70	0	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_9962156941	61-70	15	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_35022075344	>71	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83146302314	>71	0	0	1	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_82050742440	61-70	1	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_11580456927	50-60	0	0	6	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_55268142410	>71	12	0	105	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	1
+Group_74002105879	50-60	6	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_11824267262	61-70	8	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_13253724350	50-60	4	1	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_93516161263	>71	7	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98861313540	61-70	9	0	2	Combo	Melanoma	0	0	0	0
+Group_54667985988	31-50	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_73193772716	>71	2	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_35212665797	>71	3	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_31509756109	31-50	1	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_79000829545	50-60	20	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_58453201515	50-60	25	0	30	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_30369012602	61-70	8	0	0	PD-1/PDL-1	Sellar Tumor	0	0	0	0
+Group_19260828621	>71	7	1	16	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_69361383503	50-60	2	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_70981682781	61-70	3	1	3	Combo	Pancreatic Cancer	0	0	0	0
+Group_63607367102	50-60	2	0	5	PD-1/PDL-1	Head and Neck Cancer	1	0	1	1
+Group_39391120007	61-70	19	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_67344599739	31-50	1	1	10	CTLA4	Breast Cancer	0	0	0	0
+Group_28838688800	50-60	15	1	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67674012138	50-60	13	0	7	PD-1/PDL-1	Glioma	0	0	0	0
+Group_63000232802	61-70	2	0	5	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_32047171372	50-60	4	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_10656090984	61-70	30	0	3	CTLA4	Prostate Cancer	0	0	0	0
+Group_36659836132	50-60	1	0	3	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_52168291112	61-70	2	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_12410788214	61-70	40	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_8392116818	>71	1	0	4	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_58956207477	61-70	43	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_49568165875	>71	11	0	27	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_25298561029	50-60	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_1687873208	50-60	8	0	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_59479549301	50-60	29	1	2	CTLA4	Melanoma	1	0	0	0
+Group_4978910976	<30	5	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_328265026	61-70	26	0	2	CTLA4	Prostate Cancer	1	0	1	1
+Group_41912470913	>71	4	1	11	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4413908278	>71	4	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_18671199889	31-50	0	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_24763108028	61-70	6	0	61	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_8269840618	61-70	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_56255997856	61-70	8	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95465402398	>71	8	1	25	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_16086201268	61-70	0	1	15	Combo	Melanoma	1	0	1	1
+Group_36134540844	50-60	33	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_25699334118	>71	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71982599140	>71	6	1	2	PD-1/PDL-1	NA	0	0	0	0
+Group_62793729994	31-50	4	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_74064163983	50-60	13	1	0	Combo	Anal Cancer	0	0	0	0
+Group_77093742520	61-70	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_24334411520	50-60	5	0	1	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_83856973115	61-70	0	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94913255549	31-50	11	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10792377496	>71	34	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5148789279	50-60	18	1	1	CTLA4	Prostate Cancer	0	0	0	0
+Group_18231984471	>71	6	0	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_95028345515	31-50	10	1	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_48126261834	50-60	0	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_97542755561	50-60	7	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_66392340554	61-70	0	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_88815578166	>71	7	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_2518999590	31-50	7	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_66479313740	>71	15	1	4	CTLA4	Breast Cancer	0	0	0	0
+Group_99877073896	61-70	1	0	9	Combo	Melanoma	1	0	1	1
+Group_34327955809	>71	14	0	35	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_65421245508	31-50	14	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_31461212853	61-70	2	0	37	PD-1/PDL-1	Colorectal Cancer	1	0	0	1
+Group_68899697950	50-60	18	0	9	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_12766878229	61-70	9	0	47	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_75756586652	<30	13	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_94172292470	31-50	17	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_92537904899	50-60	32	0	14	CTLA4	Melanoma	1	0	1	1
+Group_76225878890	>71	3	0	4	Combo	Esophagogastric Cancer	0	0	0	0
+Group_99352938641	50-60	36	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_88445755408	50-60	10	0	15	Combo	Soft Tissue Sarcoma	1	0	1	1
+Group_66259443401	61-70	3	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_89107306519	61-70	1	0	75	Combo	Melanoma	1	0	0	1
+Group_43430840965	>71	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_79352834303	61-70	4	1	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28168087763	50-60	13	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_35488147900	>71	6	1	11	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_87541709395	61-70	2	0	2	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_74373362824	61-70	45	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30168172211	>71	10	1	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_51468134752	31-50	3	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_58406726643	50-60	19	0	1	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_81732439583	31-50	2	1	6	Combo	Colorectal Cancer	1	0	0	0
+Group_62266803764	61-70	7	1	2	PD-1/PDL-1	Head and Neck Cancer	1	0	0	0
+Group_22110833789	50-60	18	0	18	Combo	Melanoma	0	0	0	0
+Group_54261196980	61-70	4	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_17656898962	61-70	3	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42369063869	31-50	17	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40430230494	50-60	13	0	66	Combo	Melanoma	0	0	0	0
+Group_14507634537	50-60	11	0	6	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_13791147801	31-50	2	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99891413952	>71	12	0	51	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_82918908267	50-60	7	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64919723189	50-60	30	1	2	CTLA4	Melanoma	0	0	0	0
+Group_94565792443	50-60	35	0	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_31058609971	61-70	6	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Group_21698066378	50-60	6	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_17913585578	31-50	6	1	0	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_4978839691	31-50	25	1	1	Combo	Melanoma	0	0	0	0
+Group_47731101773	31-50	9	1	2	CTLA4	Breast Cancer	0	0	0	0
+Group_48863801836	31-50	3	0	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Group_54042900273	<30	20	0	44	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_31086950595	61-70	7	1	7	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_6340725071	50-60	8	0	4	Combo	Melanoma	0	0	0	0
+Group_80389939430	>71	33	1	6	Combo	Melanoma	0	0	0	0
+Group_48990907529	31-50	2	1	3	Combo	Breast Cancer	0	0	0	0
+Group_85133088751	31-50	15	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76972614483	50-60	1	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_14128790573	61-70	8	1	5	Combo	Ovarian Cancer	0	0	0	0
+Group_19057132809	31-50	21	0	6	Combo	Melanoma	0	0	0	0
+Group_38517021230	>71	10	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87620040266	>71	19	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_66752899027	31-50	4	1	5	Combo	Cervical Cancer	0	0	0	0
+Group_4985485445	50-60	21	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_74479893297	50-60	1	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65433982078	50-60	2	1	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_34105142394	>71	4	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_43910153718	31-50	8	0	54	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_71227563673	50-60	10	0	16	Combo	Melanoma	1	0	0	0
+Group_74016263945	50-60	13	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_7209542893	61-70	13	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_15724776524	61-70	58	0	8	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Group_59612814159	50-60	14	1	5	PD-1/PDL-1	Glioma	1	0	0	0
+Group_71280469202	>71	2	0	75	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_22049072594	50-60	12	0	53	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_45475869628	>71	13	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_31140710	>71	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_41713378304	>71	18	0	16	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_68030132053	31-50	10	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_52105749959	61-70	2	1	8	Combo	Esophagogastric Cancer	0	0	0	0
+Group_63474530705	31-50	0	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_21837494408	31-50	13	0	22	Combo	Melanoma	0	0	0	0
+Group_94630270659	>71	0	0	1	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Group_10872223061	61-70	4	0	13	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_84704675267	61-70	11	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_35363814082	>71	1	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_89506350176	61-70	10	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_76302605937	31-50	0	1	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_13320264586	31-50	1	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_28573568405	50-60	6	1	43	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Group_53375280582	31-50	8	0	10	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Group_63288001398	31-50	4	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_90986047991	61-70	12	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_79798328120	61-70	18	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26736359883	61-70	2	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_67495716989	>71	8	0	26	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_80368866174	50-60	6	1	4	Combo	Pancreatic Cancer	0	0	0	0
+Group_6634636613	61-70	6	1	10	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_70351642996	61-70	2	0	17	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_49674235579	>71	3	0	10	PD-1/PDL-1	Glioma	1	0	1	1
+Group_76526787978	>71	39	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_34591146311	61-70	1	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_65152794978	>71	3	1	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_10901755598	50-60	1	1	5	PD-1/PDL-1	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Group_96414724612	31-50	21	1	22	Combo	Glioma	0	0	0	0
+Group_46746314410	50-60	13	0	71	Combo	Melanoma	0	0	0	1
+Group_68885938727	>71	2	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_56775449307	61-70	2	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_67279404766	>71	0	0	1	Combo	Melanoma	0	0	0	0
+Group_310760795	61-70	9	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_45625321746	>71	8	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3380349838	31-50	3	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_13840115277	50-60	7	0	17	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_41639032718	50-60	4	0	0	PD-1/PDL-1	Hodgkin Lymphoma	0	0	0	0
+Group_38091224869	>71	1	0	10	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_39679521984	61-70	2	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98504056694	>71	3	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_13783961309	50-60	2	1	4	Combo	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_7636484643	61-70	16	0	5	Combo	Melanoma	1	1	0	1
+Group_42653582667	61-70	6	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_73832567975	61-70	1	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_55544534983	>71	3	1	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_90075148868	>71	1	0	178	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_63964429938	61-70	21	1	6	CTLA4	Esophagogastric Cancer	0	0	0	0
+Group_35537494562	61-70	16	0	6	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_70117879166	61-70	5	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_14344183421	31-50	9	1	6	Combo	Breast Cancer	0	0	0	0
+Group_88783318640	31-50	3	0	0	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Group_26681441298	>71	3	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_70161270342	31-50	22	1	8	PD-1/PDL-1	Germ Cell Tumor	1	1	0	1
+Group_18212490002	61-70	24	1	26	Combo	Melanoma	0	0	0	0
+Group_85162190869	50-60	4	0	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_56097724461	50-60	1	1	9	PD-1/PDL-1	Esophagogastric Cancer	1	1	0	1
+Group_32879668875	61-70	3	0	21	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_46454835932	>71	16	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Group_54889346024	50-60	5	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_23086540162	61-70	2	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_9869400601	50-60	1	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_57963712613	61-70	7	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_98013603766	61-70	5	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_96887793769	>71	0	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_53844407185	50-60	55	0	21	CTLA4	Melanoma	1	0	1	1
+Group_32318686806	<30	3	1	2	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_2103909168	50-60	13	0	2	Combo	Melanoma	0	0	0	0
+Group_42117153962	31-50	21	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_55036776339	31-50	7	0	2	PD-1/PDL-1	Hodgkin Lymphoma	0	0	0	0
+Group_29828822377	61-70	10	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_6922988936	61-70	4	1	6	PD-1/PDL-1	Bladder Cancer	1	0	0	1
+Group_31359891927	>71	18	0	6	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_99372508159	61-70	5	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_81763561711	>71	8	0	27	CTLA4	Melanoma	0	0	0	0
+Group_62394556443	61-70	9	0	3	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_24059065602	>71	16	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80082269435	31-50	25	0	72	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_92393774995	50-60	8	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_14730192702	61-70	2	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_75901741152	61-70	1	0	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_43278130963	31-50	39	0	23	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_29411509998	50-60	11	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_57806758614	>71	10	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71231569837	50-60	0	1	20	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_19877715243	>71	5	1	7	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_84167219136	>71	15	1	49	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_22951921197	<30	6	0	1	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_69265547681	61-70	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94625030639	>71	39	0	93	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_7832928596	>71	13	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_6739658823	>71	8	0	16	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_33428028755	31-50	7	1	11	Combo	Bladder Cancer	0	0	0	0
+Group_48844842972	50-60	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9902236413	>71	1	1	4	Combo	Pancreatic Cancer	0	0	0	0
+Group_90816758573	31-50	58	0	20	CTLA4	Melanoma	0	0	0	0
+Group_6888039421	31-50	1	1	0	CTLA4	Breast Cancer	0	0	0	0
+Group_38795893142	61-70	10	1	9	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_98345450640	50-60	9	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_95675408012	50-60	2	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_66463917710	<30	15	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_3596945627	31-50	30	0	14	Combo	Non-Small Cell Lung Cancer	1	0	0	1
+Group_98792500145	61-70	4	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80339091130	50-60	10	0	32	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7394200200	31-50	13	1	14	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_11380324867	31-50	17	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_44718763675	>71	19	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80085583824	50-60	21	1	2	PD-1/PDL-1	Glioma	1	0	0	0
+Group_16809931275	50-60	9	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_92939265071	31-50	5	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_96629037400	31-50	13	1	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_31253094441	>71	58	0	1	CTLA4	Melanoma	0	0	0	0
+Group_17471894771	>71	12	0	103	PD-1/PDL-1	Melanoma	1	1	0	1
+Group_90637074251	>71	6	0	7	Combo	Cancer of Unknown Primary	1	0	0	0
+Group_95061926735	>71	1	0	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_5288514941	50-60	2	1	10	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_30165523921	61-70	5	0	61	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Group_67785901945	61-70	0	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_29293619306	50-60	27	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_52612841404	>71	1	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_92855886186	61-70	10	0	16	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Group_62709307510	61-70	0	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_58857148784	>71	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_99638751014	61-70	8	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_30232731772	61-70	0	0	37	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_4371070683	50-60	0	0	2	Combo	Small Cell Lung Cancer	1	0	0	0
+Group_92284638002	50-60	11	0	15	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_95634759891	<30	6	0	6	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_61639726678	50-60	12	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_1916696869	61-70	8	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_20910352058	>71	2	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_62450806270	<30	0	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_96625677638	>71	6	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_183473339	61-70	7	0	35	Combo	Melanoma	0	0	0	0
+Group_20925178417	61-70	2	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_72833869350	61-70	32	0	17	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_45224507674	61-70	8	1	2	CTLA4	Mesothelioma	0	0	0	0
+Group_23407439021	50-60	23	0	5	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Group_19140773184	31-50	0	1	5	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_77249684117	61-70	24	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_32471171257	<30	23	0	6	PD-1/PDL-1	Glioma	1	0	0	0
+Group_74015255135	50-60	27	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_88155041385	50-60	29	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_54959247746	31-50	7	1	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_6635090185	50-60	1	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_73589599779	31-50	3	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_23713615897	61-70	39	0	3	CTLA4	Melanoma	0	0	0	0
+Group_2663441299	>71	1	1	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_85159105978	50-60	5	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71189544040	>71	1	1	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_2107410820	61-70	2	0	7	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_70920573811	31-50	1	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	1
+Group_38849783198	50-60	1	1	11	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Group_49158856332	61-70	1	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10336954575	61-70	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_61079435682	50-60	4	1	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_62265470870	31-50	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3069981079	61-70	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_66115002901	>71	4	1	3	CTLA4	Mesothelioma	0	0	0	0
+Group_5287553627	61-70	4	0	4	Combo	Melanoma	0	0	0	0
+Group_92673102168	50-60	1	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_37948353308	61-70	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_42853624507	61-70	9	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_52774662151	50-60	1	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_88219555864	50-60	29	0	33	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_35184300325	50-60	27	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83244432680	50-60	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_82842222459	61-70	5	0	50	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Group_36968206782	61-70	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_27509677107	61-70	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_14650237100	>71	2	1	3	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Group_6780555415	50-60	0	0	6	Combo	Esophagogastric Cancer	0	0	0	0
+Group_72653194012	31-50	1	1	4	Combo	Melanoma	0	0	0	0
+Group_27162651674	61-70	1	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_46470985770	50-60	4	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30905039410	>71	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67745786373	>71	2	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_58940436514	61-70	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21307091327	50-60	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10314504093	>71	3	1	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_49861016963	31-50	5	1	2	CTLA4	Breast Cancer	1	1	0	1
+Group_7177576008	>71	5	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_33140776911	50-60	6	1	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_85060926584	50-60	24	0	0	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_71540393301	61-70	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3540010778	61-70	2	1	5	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_80891452193	61-70	1	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_82176922706	31-50	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_96268864797	50-60	1	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_20026819299	50-60	2	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_60836352311	31-50	14	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87404255771	>71	3	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_24581191955	50-60	20	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Group_31726289796	50-60	10	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_95215969256	50-60	2	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_55597493055	50-60	20	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_10764178619	50-60	7	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_60448199368	>71	1	1	3	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_20346643017	31-50	0	0	18	Combo	Esophagogastric Cancer	0	0	0	0
+Group_90211261984	61-70	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_15083609131	31-50	18	1	6	CTLA4	Melanoma	0	0	0	0
+Group_59526394348	<30	1	1	7	Combo	Melanoma	0	0	0	0
+Group_89795773749	31-50	4	1	7	PD-1/PDL-1	Cervical Cancer	1	0	1	1
+Group_49883778764	<30	26	1	0	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_20620222761	50-60	2	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_1508272182	>71	1	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_84306128910	31-50	11	0	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Group_89979721505	>71	4	0	33	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3260888309	50-60	1	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_68072390160	31-50	13	1	3	CTLA4	Melanoma	0	0	0	0
+Group_53102800975	61-70	5	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_13162079941	61-70	22	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2226860303	>71	6	0	95	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_74485099285	61-70	5	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_74835224338	50-60	5	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_3063604052	61-70	4	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_63798156148	61-70	5	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_31295210148	61-70	11	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_78271591331	31-50	9	0	9	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_10282889165	50-60	20	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_44162640060	61-70	10	1	3	Combo	Ovarian Cancer	0	0	0	0
+Group_577753518	61-70	3	0	16	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_56886679735	<30	21	0	10	Combo	Melanoma	0	0	0	0
+Group_86148984373	>71	1	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67008628231	31-50	15	1	2	CTLA4	Small Cell Lung Cancer	0	0	0	0
+Group_85843053482	>71	15	1	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_68529509383	50-60	7	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_29228563259	>71	3	0	13	Combo	Melanoma	0	0	0	0
+Group_44165018581	61-70	3	1	41	PD-1/PDL-1	Prostate Cancer	1	0	0	0
+Group_96005642582	>71	25	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2921008864	>71	8	0	1	Combo	Melanoma	0	0	0	0
+Group_3442238874	31-50	1	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_82502816856	31-50	1	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40939338341	61-70	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65161513339	61-70	8	1	4	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_49536548537	50-60	9	0	20	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_46262394022	31-50	5	1	3	CTLA4	Breast Cancer	0	0	0	0
+Group_36318605719	>71	11	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_33948585279	61-70	5	0	40	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_27706167745	61-70	11	1	0	Combo	Uterine Sarcoma	0	0	0	0
+Group_12702984638	50-60	1	1	0	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Group_23221700900	>71	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_62030547033	50-60	10	0	26	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	0	1	1
+Group_12902563587	>71	4	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_78808177356	>71	10	0	37	CTLA4	Melanoma	0	0	0	0
+Group_55491147746	31-50	9	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Group_82546129059	61-70	24	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_22239119171	50-60	42	1	10	CTLA4	Melanoma	0	0	0	0
+Group_59796576872	31-50	19	0	24	Combo	Melanoma	1	0	0	1
+Group_57280385337	31-50	15	0	4	PD-1/PDL-1	Germ Cell Tumor	1	0	0	0
+Group_29778626905	<30	15	0	3	Combo	Cancer of Unknown Primary	0	0	0	0
+Group_88215362393	<30	2	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_50307295212	>71	2	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_43866626805	50-60	23	0	9	Combo	Head and Neck Cancer	0	0	0	0
+Group_41654038108	31-50	0	1	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Group_7310135538	>71	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_62350818728	>71	2	1	37	Combo	Melanoma	1	0	0	0
+Group_73166422571	50-60	21	0	49	Combo	Melanoma	1	0	0	0
+Group_85122536550	61-70	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10304849946	31-50	15	1	22	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_22032760389	61-70	5	0	2	Combo	Melanoma	0	0	0	0
+Group_86459477383	>71	3	0	1	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Group_35642243027	50-60	17	0	4	Combo	Bladder Cancer	0	0	0	0
+Group_88914357647	>71	2	0	37	Combo	Melanoma	0	0	0	0
+Group_85311289482	>71	13	0	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_91932507747	61-70	11	0	6	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_77246389599	61-70	1	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_36216695923	50-60	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_8277899338	61-70	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_70607147013	31-50	11	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_38190692262	31-50	1	1	4	Combo	Esophagogastric Cancer	0	0	0	0
+Group_32859503196	>71	11	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_24868637020	61-70	3	1	9	Combo	Bladder Cancer	0	0	0	0
+Group_20383776678	61-70	5	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_47926470546	>71	4	0	43	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_13199069793	>71	15	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_86579916843	31-50	67	0	47	CTLA4	Melanoma	1	0	0	0
+Group_31305964884	31-50	3	0	7	PD-1/PDL-1	Breast Cancer	1	0	1	1
+Group_63369382714	50-60	17	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2004879997	50-60	14	0	3	Combo	Esophagogastric Cancer	1	0	0	0
+Group_52557863895	50-60	6	1	12	Combo	Melanoma	0	0	0	0
+Group_65610571617	61-70	5	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_43895629189	50-60	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30157815725	50-60	45	0	0	CTLA4	Prostate Cancer	1	0	1	1
+Group_95951017947	50-60	0	0	91	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Group_68984744460	61-70	11	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_73653773194	31-50	6	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36271215786	50-60	1	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_25877069799	61-70	0	0	5	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_42285059791	<30	0	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_22491699900	61-70	7	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_25537962566	>71	7	1	0	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_93242307455	50-60	8	0	5	CTLA4	Prostate Cancer	1	0	1	1
+Group_11737381137	31-50	9	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_94170355366	61-70	0	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_33200933379	61-70	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_40758978398	61-70	3	0	8	PD-1/PDL-1	Glioma	0	0	0	0
+Group_63898420742	61-70	19	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_35667130441	31-50	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Group_51452720700	31-50	7	0	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_29290638127	>71	18	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67454048975	50-60	3	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_40121893994	50-60	4	1	6	Combo	Cervical Cancer	0	0	0	0
+Group_9692895998	50-60	3	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_11503078657	61-70	4	1	6	PD-1/PDL-1	Pancreatic Cancer	1	0	1	1
+Group_60012991308	50-60	7	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_98274561452	<30	13	1	4	Combo	Melanoma	0	0	0	0
+Group_84839419107	50-60	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_92608611558	>71	5	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Group_64095068125	61-70	9	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83553228746	31-50	14	0	50	PD-1/PDL-1	Pancreatic Cancer	1	0	1	1
+Group_87764077126	31-50	1	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_35942779583	50-60	9	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_98125997163	50-60	2	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_79744133108	61-70	16	1	10	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_29753897497	<30	5	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_31242374360	50-60	8	0	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_81991876791	61-70	0	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_79197387094	61-70	1	1	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9437623668	61-70	4	1	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_56624198155	<30	8	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_60899072118	>71	46	0	12	CTLA4	Melanoma	0	0	0	0
+Group_24644696219	31-50	2	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_55489883909	>71	57	0	67	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_35135338711	61-70	2	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_44165669028	>71	5	1	63	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	1	1	1
+Group_28675274950	61-70	31	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_42859791938	31-50	1	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_89095279905	31-50	13	1	4	Combo	Cervical Cancer	0	0	0	0
+Group_35587750989	>71	1	0	46	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_82300087694	50-60	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_91143066668	61-70	10	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_58952053314	31-50	7	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_76889639726	>71	10	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_38072512151	50-60	50	0	0	CTLA4	Breast Cancer	0	0	0	0
+Group_12226442410	>71	10	0	36	PD-1/PDL-1	Melanoma	0	0	0	1
+Group_9582007277	61-70	4	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_14985544118	31-50	34	1	1	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_50078672245	>71	42	0	3	CTLA4	Melanoma	0	0	0	0
+Group_65291060293	61-70	7	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_49646998120	50-60	7	0	204	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_12045533223	31-50	7	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_22407405704	31-50	7	0	32	Combo	Melanoma	1	0	0	0
+Group_17533029252	>71	2	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7642889514	>71	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26100629845	61-70	2	0	2	Combo	Melanoma	0	0	0	0
+Group_26060733720	31-50	5	0	14	Combo	Melanoma	0	0	0	0
+Group_3206904322	>71	22	0	39	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_40648257004	>71	9	0	26	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_85990222446	61-70	0	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_82732262591	61-70	1	1	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_11180824303	50-60	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76777873034	>71	22	1	3	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_98308394410	61-70	0	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_48614688918	31-50	20	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_16329256197	31-50	4	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_71232531996	31-50	9	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_22279899859	>71	19	1	2	CTLA4	Melanoma	0	0	0	0
+Group_73231819455	31-50	15	1	4	Combo	Esophagogastric Cancer	0	0	0	0
+Group_28082834951	>71	1	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67094059112	61-70	13	1	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_13485764181	61-70	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_83329272374	61-70	8	1	8	Combo	Bladder Cancer	0	0	0	0
+Group_43444477505	50-60	2	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_57005272378	61-70	9	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_96627261348	61-70	28	1	38	CTLA4	Melanoma	0	0	0	0
+Group_48774279122	50-60	55	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_59858155474	>71	7	0	29	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_11438669228	61-70	8	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_89015880574	>71	9	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	1	1
+Group_95301720451	50-60	15	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_54214492890	50-60	15	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_31213663629	<30	18	0	3	Combo	Melanoma	0	0	0	0
+Group_23652016650	50-60	21	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_23367290361	61-70	1	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20895054069	>71	21	0	8	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_19970509060	31-50	1	1	7	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_55682609633	50-60	2	0	9	PD-1/PDL-1	Glioma	0	0	0	0
+Group_3730208278	50-60	0	0	5	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_29632217680	61-70	4	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83138841570	>71	1	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_63815812119	>71	6	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_75643114981	>71	4	1	10	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Group_61560722051	>71	10	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_43724171973	61-70	6	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_35160293932	31-50	6	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_79526477032	61-70	20	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_52794452170	50-60	22	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_56328079560	61-70	2	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_84715096128	50-60	3	1	2	PD-1/PDL-1	Nerve Sheath Tumor	0	0	0	0
+Group_81629531322	50-60	10	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9145813164	31-50	6	0	9	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_41539570895	>71	30	0	46	CTLA4	Melanoma	1	1	1	1
+Group_6289985067	<30	8	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_22629578149	61-70	29	0	3	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Group_71673748412	31-50	16	1	13	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_47719892837	61-70	15	1	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_74185385824	31-50	2	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_53860035667	<30	8	1	0	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_89855975847	31-50	23	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_21754525240	61-70	2	0	26	Combo	Melanoma	0	0	0	0
+Group_3314028194	>71	1	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_82096572539	61-70	14	0	2	CTLA4	Gastrointestinal Stromal Tumor	1	0	1	1
+Group_91918164988	61-70	13	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_25655026712	50-60	3	0	19	CTLA4	Melanoma	0	0	0	0
+Group_18249886482	61-70	6	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_82384476843	50-60	7	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_31140134868	50-60	4	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_80012242360	61-70	2	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_73598817794	>71	26	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_9261265164	50-60	11	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_16989784647	>71	1	1	8	CTLA4	Melanoma	0	0	0	0
+Group_17208908076	>71	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_14432593776	>71	0	0	24	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_87985348586	61-70	1	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_3278626578	>71	14	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_58799377673	61-70	0	0	3	PD-1/PDL-1	Mesothelioma	1	0	0	0
+Group_65309943202	>71	3	1	28	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_93090547046	50-60	2	1	21	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_71374182011	31-50	10	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_11487187139	50-60	2	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_44727757884	61-70	6	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_77987569857	50-60	25	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_32321096068	61-70	11	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_86561806310	61-70	13	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_81448121405	>71	7	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_17569566402	50-60	0	0	3	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Group_81890484270	61-70	13	1	22	Combo	Melanoma	0	0	0	0
+Group_45351030034	>71	5	1	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_35470669022	>71	2	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_57586715769	61-70	20	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_34950312308	50-60	35	0	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_99883577691	50-60	8	0	57	PD-1/PDL-1	Glioma	1	0	1	1
+Group_4748843538	>71	9	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42818707085	31-50	15	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_53142592111	50-60	1	1	7	CTLA4	Breast Cancer	0	0	0	0
+Group_24802605777	61-70	7	1	4	CTLA4	Melanoma	0	0	0	0
+Group_40043164399	50-60	5	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_98874704073	61-70	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_65839541066	61-70	9	0	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_23821088552	50-60	29	0	3	CTLA4	Prostate Cancer	1	0	0	0
+Group_74475087235	>71	18	1	26	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_84700403766	50-60	15	0	15	Combo	Melanoma	0	0	0	0
+Group_77392536202	50-60	8	0	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_41350647180	>71	4	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94536581049	>71	6	0	48	Combo	Melanoma	1	0	0	0
+Group_74366267821	50-60	3	1	6	CTLA4	Breast Cancer	0	0	0	0
+Group_97070018923	61-70	0	0	2	Combo	Esophagogastric Cancer	0	0	0	0
+Group_83772789524	>71	2	1	35	Combo	Bladder Cancer	0	0	0	1
+Group_25877390989	50-60	0	0	178	PD-1/PDL-1	Colorectal Cancer	1	1	1	1
+Group_63450985886	61-70	9	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_81363151152	50-60	2	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_3487346140	>71	11	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_97523330133	61-70	11	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Group_76133195114	31-50	0	1	3	Combo	Head and Neck Cancer	0	0	0	0
+Group_63395502721	<30	8	0	3	Combo	Melanoma	0	0	0	0
+Group_24872975928	31-50	4	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_84043444614	50-60	9	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40719158104	>71	13	0	4	PD-1/PDL-1	Bladder Cancer	1	0	0	1
+Group_81700252615	31-50	7	1	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_41200749980	61-70	2	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_27943816017	50-60	6	0	30	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7866351483	50-60	23	0	2	Combo	Bladder Cancer	0	0	0	0
+Group_75968014382	61-70	7	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95434219622	61-70	1	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_68419725954	50-60	5	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64929020936	>71	3	1	6	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_43036641180	61-70	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36517431702	31-50	22	0	10	PD-1/PDL-1	Esophagogastric Cancer	1	0	1	1
+Group_27847258973	<30	17	0	8	Combo	Melanoma	0	0	0	0
+Group_19656657661	61-70	5	0	24	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_92869341204	>71	3	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_12673675942	61-70	2	0	6	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_20091788547	>71	1	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_8699584709	31-50	1	1	8	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_86532536105	61-70	9	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_62066101308	31-50	2	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_97767011100	>71	2	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_46181434610	50-60	2	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_37405838163	61-70	4	0	8	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_48871184024	31-50	2	1	13	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_89652863058	61-70	7	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98362764628	>71	25	0	0	Combo	Renal Cell Carcinoma	1	0	0	1
+Group_90407661279	50-60	2	0	4	PD-1/PDL-1	Endometrial Cancer	1	0	0	1
+Group_31315515218	<30	8	1	7	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_51546819846	61-70	40	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_12833804908	50-60	17	0	6	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_42623091885	>71	6	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76739560395	31-50	22	0	69	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Group_80728052186	31-50	15	1	48	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_30434345750	61-70	4	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_46173408781	61-70	11	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_54588121380	50-60	1	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_97940465339	>71	4	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_77308705040	31-50	16	0	9	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_10172797584	50-60	0	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_37922587034	61-70	2	1	5	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_2780457678	61-70	21	0	13	Combo	Melanoma	1	0	1	1
+Group_6606968702	61-70	6	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_88170510040	31-50	16	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_67153372406	61-70	5	0	2	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_52691746551	50-60	35	0	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_12742244515	>71	11	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_57435872524	31-50	4	1	31	PD-1/PDL-1	Soft Tissue Sarcoma	1	0	0	1
+Group_35563406859	50-60	12	0	1	Combo	Melanoma	0	0	0	0
+Group_90114819741	>71	6	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_55904509980	50-60	1	1	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_87560594592	>71	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15810765047	>71	2	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_11056115557	50-60	5	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_51111868904	>71	6	0	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_86261441312	61-70	1	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_38765330640	>71	3	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_56117731547	61-70	5	0	21	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Group_43969300452	>71	31	1	4	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28331281357	>71	24	0	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_94347522278	50-60	2	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_32582924532	50-60	21	0	1	Combo	Melanoma	0	0	0	0
+Group_62307606548	61-70	1	0	10	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_24215010318	61-70	2	1	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36929769347	61-70	4	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_67473864444	50-60	1	1	1	Combo	Prostate Cancer	0	0	0	0
+Group_75054513228	50-60	12	0	53	Combo	Melanoma	1	0	0	1
+Group_30271884409	50-60	14	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_34495649698	50-60	19	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_59836021293	31-50	8	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_65087363871	>71	1	1	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_32255616290	50-60	10	1	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_52066787337	>71	1	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_78799354308	50-60	1	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2996364815	>71	47	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7022411589	50-60	10	0	20	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_97087781369	61-70	8	0	8	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_29582192758	61-70	11	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_6792646327	50-60	0	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26908063922	31-50	2	1	2	Combo	Esophagogastric Cancer	0	0	0	0
+Group_80322325986	61-70	2	1	0	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_98296799748	50-60	2	1	2	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Group_7569889991	61-70	0	0	5	PD-1/PDL-1	Esophagogastric Cancer	1	1	0	1
+Group_50753073693	50-60	7	1	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Group_71461965037	31-50	4	1	9	CTLA4	Colorectal Cancer	0	0	0	0
+Group_73131317201	50-60	18	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21107079707	>71	10	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_97009311395	61-70	5	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_90167009555	50-60	0	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_25048666928	>71	9	1	9	Combo	Melanoma	1	0	1	1
+Group_7833550552	61-70	14	1	1	Combo	Ovarian Cancer	0	0	0	0
+Group_48687146525	50-60	7	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_974843253	>71	1	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_37884968503	61-70	30	1	1	CTLA4	Melanoma	0	0	0	0
+Group_78675044993	>71	10	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_48250667607	>71	5	1	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_86204512645	31-50	4	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_35367806712	31-50	7	1	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_96256921366	50-60	2	1	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21831590614	61-70	1	1	16	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_51452838345	>71	11	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_1474628325	>71	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28476813325	61-70	16	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_94640467022	31-50	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64076711818	50-60	4	0	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_51999509576	61-70	3	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	1	1	0	1
+Group_97317592085	50-60	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4102462953	50-60	0	0	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_54765130648	>71	23	0	2	CTLA4	Prostate Cancer	1	0	1	1
+Group_73472367023	61-70	11	1	0	PD-1/PDL-1	Uterine Sarcoma	0	0	0	0
+Group_68284953173	61-70	1	0	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_88550979834	31-50	22	0	8	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_43370353663	61-70	1	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_39106635763	61-70	8	0	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_12181793008	>71	2	0	4	Combo	Pancreatic Cancer	0	0	0	0
+Group_55134079460	50-60	11	0	31	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_81005419299	50-60	2	1	81	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Group_37214810654	<30	12	1	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_10728489923	61-70	9	1	10	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_77245826702	61-70	16	0	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_24263148312	50-60	3	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_80628867679	>71	5	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_53641774306	61-70	4	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_25262724550	61-70	6	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21853368826	50-60	3	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_87020347608	61-70	40	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_93939130063	>71	7	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_67682803790	>71	17	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_31134771638	31-50	1	0	2	PD-1/PDL-1	Nerve Sheath Tumor	0	0	0	0
+Group_54073493152	>71	49	0	2	CTLA4	Prostate Cancer	0	0	0	0
+Group_16313875453	50-60	33	0	12	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_15608170786	31-50	9	0	26	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_18074842022	50-60	6	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_17873212902	50-60	1	1	3	PD-1/PDL-1	Thyroid Cancer	0	0	0	1
+Group_78320793235	>71	23	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_15558815629	50-60	10	0	13	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_68239116369	>71	11	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_27868193409	61-70	17	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_39392099366	<30	3	0	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_4130207587	61-70	13	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4497531207	61-70	3	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_97766879032	>71	4	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_49516412132	50-60	3	0	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_32620558267	31-50	1	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_19241509105	61-70	5	1	9	Combo	Head and Neck Cancer	0	0	0	0
+Group_21417950468	61-70	42	1	36	CTLA4	Melanoma	0	0	0	1
+Group_49433479651	50-60	11	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_57884877240	61-70	4	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7273720091	50-60	14	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15106602052	61-70	11	1	13	PD-1/PDL-1	Head and Neck Cancer	1	0	0	1
+Group_63668622622	61-70	0	1	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_9679660237	31-50	14	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_40088947935	31-50	8	0	3	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_17311667554	61-70	1	0	66	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_86818398912	50-60	45	0	4	CTLA4	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Group_8126049738	>71	6	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_96018038196	61-70	2	1	5	PD-1/PDL-1	Small Cell Lung Cancer	1	0	1	1
+Group_39030398851	50-60	8	0	20	PD-1/PDL-1	Prostate Cancer	1	0	1	1
+Group_28996742000	>71	1	0	36	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_65428802659	31-50	7	1	9	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_67061384229	50-60	2	1	2	CTLA4	Melanoma	0	0	0	0
+Group_70054025687	50-60	29	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_49453364043	61-70	3	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_46250619637	61-70	3	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_49997567067	>71	3	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99600261217	>71	10	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_22971045150	>71	4	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_27521607926	61-70	25	0	10	Combo	Melanoma	0	0	0	0
+Group_26515675414	50-60	0	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71794446124	31-50	3	0	5	CTLA4	Breast Cancer	0	0	0	0
+Group_56701406807	61-70	18	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_16810948286	31-50	17	0	4	Combo	Melanoma	0	0	0	0
+Group_39416976607	31-50	16	0	0	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_3679403746	61-70	33	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_47872215896	>71	79	0	2	CTLA4	Mesothelioma	0	0	0	0
+Group_96023718222	61-70	2	0	9	Combo	Small Cell Lung Cancer	1	0	1	1
+Group_23775136964	>71	24	0	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_35256374636	50-60	8	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_65451925822	50-60	17	0	27	Combo	Bladder Cancer	0	0	0	1
+Group_91732060808	61-70	9	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_5525861949	61-70	15	0	5	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Group_84211400377	<30	2	1	2	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Group_29126331693	61-70	6	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4924766632	50-60	35	1	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_95865305702	>71	1	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_19055990868	50-60	15	0	4	CTLA4	Breast Cancer	0	0	0	0
+Group_56317647038	31-50	5	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10240335170	50-60	1	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_105331987	61-70	6	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_32281810548	50-60	19	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_49017953982	50-60	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_46128260514	61-70	47	1	6	CTLA4	Melanoma	1	1	0	1
+Group_25386623951	50-60	29	0	19	Combo	Bladder Cancer	0	0	0	0
+Group_87715565329	50-60	18	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_63256483857	61-70	6	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_71515265263	31-50	2	0	15	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_97213381037	50-60	37	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_66248177414	31-50	13	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_90576007480	31-50	1	1	3	Combo	Cancer of Unknown Primary	0	0	0	0
+Group_46882928734	<30	4	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Group_68481430632	61-70	4	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_35124654504	61-70	8	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_90631009951	>71	4	0	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_26254537130	31-50	1	1	26	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_85900327233	61-70	6	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_4297910689	>71	44	0	33	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_60119096849	50-60	2	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_23590369186	31-50	14	0	10	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_88602716061	31-50	13	1	4	Combo	Melanoma	0	0	0	0
+Group_31183247384	>71	5	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_25242614998	31-50	10	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_52294294099	50-60	19	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_99083324941	31-50	11	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_33296314766	50-60	9	1	4	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Group_50688535880	31-50	10	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_30301934434	50-60	23	0	13	Combo	Melanoma	0	0	0	0
+Group_29878351124	>71	0	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_65610574671	>71	20	0	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_41187514571	61-70	20	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10007304358	<30	61	0	13	CTLA4	Melanoma	0	0	0	0
+Group_58934747439	31-50	10	0	5	Combo	Cervical Cancer	0	0	0	0
+Group_58243027782	31-50	13	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_78044999036	61-70	18	0	28	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_94722059125	31-50	1	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_13912949310	31-50	0	0	2	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Group_33627152914	50-60	9	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_23127884630	>71	6	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Group_34055130033	50-60	9	0	4	Combo	Melanoma	0	0	0	0
+Group_48202866348	61-70	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_64296320006	31-50	2	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_51956858306	31-50	2	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_57688208543	>71	7	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99178107201	50-60	3	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_64155674448	50-60	16	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_18429445978	>71	59	1	4	CTLA4	Melanoma	0	0	0	0
+Group_94281362664	>71	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_24217642741	50-60	6	0	156	PD-1/PDL-1	Endometrial Cancer	1	0	0	1
+Group_11964523289	50-60	1	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_26761188930	61-70	3	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_10962687663	<30	28	0	3	CTLA4	Melanoma	0	0	0	0
+Group_37574994958	>71	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_420093261	61-70	0	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_62462130410	61-70	14	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_36043730277	61-70	1	1	25	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_52250170978	61-70	14	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_65576075626	61-70	14	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_55794879207	31-50	16	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Group_40161161792	61-70	6	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_67234333776	50-60	8	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	1
+Group_53437913650	50-60	10	0	26	Combo	Melanoma	0	0	0	0
+Group_90467667713	31-50	7	0	31	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_91305746019	>71	8	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_99332800881	>71	28	0	49	CTLA4	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_93641962735	31-50	11	0	20	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_21896702930	50-60	11	1	2	Combo	Ovarian Cancer	0	0	0	0
+Group_38600545849	31-50	16	0	52	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_9796777331	50-60	7	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_6269237939	50-60	0	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_81887724573	50-60	9	0	8	Combo	Melanoma	0	0	0	0
+Group_76929280451	61-70	5	1	2	CTLA4	Breast Cancer	0	0	0	0
+Group_22200479282	61-70	17	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_3058793711	50-60	28	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_15472963736	>71	11	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9532624829	61-70	2	1	28	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_49511044641	50-60	7	1	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_31910725564	50-60	40	1	7	CTLA4	Melanoma	1	0	0	0
+Group_17259932229	61-70	7	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_22310187323	61-70	3	1	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_67093666625	61-70	15	0	43	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_12945733591	>71	1	0	3	PD-1/PDL-1	Pancreatic Cancer	0	0	0	1
+Group_99021023005	50-60	11	0	3	CTLA4	Prostate Cancer	0	0	0	0
+Group_77364401785	50-60	24	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_70595459616	>71	4	1	17	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_24036154030	31-50	3	1	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_93623096180	61-70	18	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_9194552860	50-60	8	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_39389098834	61-70	10	1	4	CTLA4	Breast Cancer	0	0	0	0
+Group_50646820954	50-60	9	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_59646884216	50-60	6	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_76135602009	61-70	13	1	6	PD-1/PDL-1	Ampullary Carcinoma	0	0	0	0
+Group_3412419961	61-70	11	0	4	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Group_74633322565	50-60	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5080745898	>71	12	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_58033525622	61-70	2	0	81	Combo	Melanoma	1	0	1	1
+Group_73228021300	>71	5	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_20765939231	31-50	6	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_59282394485	31-50	6	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20777965627	61-70	4	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_47419489822	61-70	14	0	14	Combo	Melanoma	0	0	0	0
+Group_18961908289	>71	31	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71317320487	>71	4	1	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_11969378263	50-60	11	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_86084918429	50-60	17	0	3	Combo	Melanoma	0	0	0	0
+Group_24486997123	61-70	1	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_73233599527	61-70	5	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_44386049074	>71	2	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_17492421313	61-70	11	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_92828687097	61-70	18	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_8726915246	31-50	4	0	1	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_72142192901	>71	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_98779590659	31-50	2	1	13	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_32761876437	31-50	6	1	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_83177941341	61-70	18	0	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_38808447039	61-70	10	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_89530897858	>71	2	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Group_10651834141	>71	3	0	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_34429319863	31-50	3	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_56706399925	>71	2	1	6	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_34754969505	<30	1	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_46601658818	61-70	2	0	11	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_74742155094	61-70	31	0	26	CTLA4	Melanoma	0	0	0	1
+Group_87212431915	50-60	10	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_8287104434	31-50	7	1	11	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Group_79783883741	31-50	14	0	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_81117069587	>71	7	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_41884202488	<30	11	1	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_36132519136	61-70	4	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_54785848038	>71	3	0	13	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_56248061285	61-70	3	0	18	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_60568517451	50-60	13	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_81253007482	50-60	9	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_92033750240	>71	1	1	2	PD-1/PDL-1	Mesothelioma	1	0	1	1
+Group_68378232283	>71	26	0	4	Combo	Melanoma	1	1	0	1
+Group_78408595965	31-50	0	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_94922903396	>71	1	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_89609860739	61-70	13	1	2	CTLA4	Melanoma	0	0	0	0
+Group_55265333568	50-60	22	0	4	PD-1/PDL-1	Head and Neck Cancer	1	0	0	0
+Group_11417503642	31-50	5	1	14	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	1
+Group_39427640349	50-60	0	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_1165548930	50-60	18	0	3	Combo	Ovarian Cancer	0	0	0	0
+Group_58280197935	50-60	12	0	4	CTLA4	Breast Cancer	0	0	0	0
+Group_47722748101	50-60	14	0	11	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_521026685	>71	10	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_74364665373	61-70	17	0	2	Combo	Melanoma	0	0	0	0
+Group_34026186164	31-50	2	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_78627569478	31-50	2	0	4	Combo	Esophagogastric Cancer	0	0	0	0
+Group_3983381892	>71	5	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_33997837085	50-60	0	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_82815037443	31-50	24	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_28007668941	>71	14	0	22	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_11048177948	>71	15	0	24	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_65390271847	50-60	11	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_34314711242	61-70	21	1	32	PD-1/PDL-1	Prostate Cancer	1	0	0	1
+Group_66097753152	31-50	1	1	0	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_31377381253	50-60	5	0	100	PD-1/PDL-1	Glioma	1	1	1	1
+Group_60051254132	61-70	2	0	112	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_86121823272	61-70	26	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_35162335370	31-50	8	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_69558857842	61-70	7	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_11924850739	50-60	4	1	40	PD-1/PDL-1	Glioma	1	0	0	1
+Group_23132816785	61-70	9	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30287920573	<30	4	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_23720418587	>71	6	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_96567623823	50-60	5	1	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_85215116622	>71	4	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2496825191	61-70	17	0	2	Combo	Melanoma	0	0	0	0
+Group_93107266907	>71	0	0	4	Combo	Melanoma	0	0	0	0
+Group_6661273518	50-60	3	1	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_39221618756	31-50	2	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_42175614461	50-60	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_10367088139	61-70	7	0	10	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_97024885508	50-60	6	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_86396754963	>71	1	1	13	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_52783532948	50-60	10	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83737500387	50-60	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_22985837905	>71	6	0	4	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_19491319310	61-70	15	0	2	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_94902259128	50-60	14	0	5	Combo	Melanoma	0	0	0	0
+Group_48659762347	>71	6	0	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_29739423170	>71	2	0	56	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_74195472861	>71	19	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_91027513474	61-70	8	0	9	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_64687391734	61-70	4	1	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_99033398589	<30	22	0	7	PD-1/PDL-1	Glioma	1	0	0	0
+Group_59405046109	31-50	10	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_60233774211	>71	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_65210769729	50-60	11	1	2	Combo	Bladder Cancer	0	0	0	0
+Group_1040167564	31-50	5	1	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_80088071694	31-50	18	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_58038350604	61-70	2	1	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_21099445496	31-50	1	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_47418509786	61-70	19	0	1	CTLA4	Prostate Cancer	0	0	0	0
+Group_9260789480	61-70	33	0	55	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_98909641187	>71	2	1	11	Combo	Melanoma	0	0	0	0
+Group_19840222335	31-50	6	1	1	CTLA4	Breast Cancer	0	0	0	0
+Group_24452111352	50-60	7	1	6	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_40780700763	>71	6	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_45455669429	61-70	9	0	11	Combo	Melanoma	0	0	0	0
+Group_54636866367	>71	4	0	10	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_32252752164	61-70	7	1	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_12448995081	31-50	53	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_45763024952	50-60	19	0	50	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_49630809939	61-70	3	0	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_34422621443	61-70	8	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36892357062	31-50	3	0	13	PD-1/PDL-1	Cervical Cancer	0	0	0	1
+Group_3818915292	>71	10	1	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_17581425362	50-60	67	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_49392772351	61-70	15	0	6	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Group_30432283532	>71	3	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26624535322	61-70	1	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_35314978786	61-70	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Group_24133446339	31-50	7	1	6	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_61680083104	61-70	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_16634405402	<30	7	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_87300244198	>71	5	0	43	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_68302455556	>71	22	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Group_40325085955	61-70	3	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_35872779883	61-70	9	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_40478507002	31-50	3	0	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_59133811830	61-70	14	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_77221848120	31-50	2	0	7	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_92365095372	61-70	3	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_22347147924	>71	28	0	32	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_52847093296	61-70	8	1	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_6143546649	50-60	29	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_62549555970	50-60	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_89132843295	31-50	4	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_15151649248	50-60	39	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_50077405802	>71	5	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_38402625187	61-70	22	1	0	Combo	Melanoma	0	0	0	0
+Group_52199681518	50-60	0	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_7149064720	31-50	0	1	34	Combo	Melanoma	0	0	0	0
+Group_15819952848	61-70	12	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_71916047591	50-60	1	1	10	Combo	Melanoma	0	0	0	0
+Group_2094024491	>71	3	0	10	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Group_55892848129	50-60	27	1	1	Combo	Melanoma	0	0	0	0
+Group_34641919357	61-70	14	0	20	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_12282722616	31-50	20	0	7	Combo	Cervical Cancer	1	0	0	0
+Group_49087512785	50-60	19	1	22	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_78781506688	50-60	19	0	100	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_31081103246	31-50	2	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_36041514549	61-70	9	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_47498976989	50-60	8	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_83730985078	61-70	1	1	25	CTLA4	Esophagogastric Cancer	0	0	0	0
+Group_80673882482	50-60	6	0	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Group_27650124080	>71	14	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_20010988497	>71	21	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_16486524768	>71	2	1	2	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Group_97944172507	<30	26	0	2	CTLA4	Melanoma	0	0	0	0
+Group_74232719080	61-70	1	0	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Group_17489426371	50-60	1	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_64892852040	50-60	5	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_17494634467	31-50	19	0	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_48446698879	50-60	13	0	36	PD-1/PDL-1	Glioma	0	0	0	0
+Group_32719824403	<30	3	0	9	PD-1/PDL-1	Glioma	0	0	0	0
+Group_92568812409	61-70	3	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_81499062943	61-70	9	1	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_77945009481	61-70	2	0	97	Combo	Melanoma	1	1	0	1
+Group_28324022145	>71	5	1	18	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_77619022115	31-50	3	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_54553154195	61-70	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_83707830701	50-60	4	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_10459816686	>71	0	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	1
+Group_36773458457	31-50	9	0	8	Combo	Melanoma	0	0	0	0
+Group_3152700918	31-50	17	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_70694154525	>71	0	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_20022420841	>71	8	0	2	Combo	Melanoma	0	0	0	0
+Group_23153878440	50-60	6	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_29080743714	61-70	11	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Group_7973316764	61-70	5	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_42541836354	>71	3	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_18854577770	31-50	35	0	16	CTLA4	Melanoma	0	0	0	1
+Group_26411283875	61-70	7	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_30756383888	61-70	6	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_25305056246	50-60	11	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_21855199523	61-70	19	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_36899334345	<30	7	1	4	Combo	Melanoma	0	0	0	0
+Group_64967238376	50-60	11	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_88662586351	>71	4	1	8	Combo	Melanoma	1	1	0	1
+Group_79550403673	>71	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_84206430063	50-60	10	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_26176915555	61-70	3	0	12	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_58914304729	61-70	19	0	39	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_49424921939	<30	1	1	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Group_98500219759	>71	4	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_10650219226	>71	3	1	4	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_62391973281	61-70	11	1	10	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_80426625949	50-60	21	1	6	CTLA4	Melanoma	0	0	0	0
+Group_85655712900	61-70	13	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_56547162638	50-60	28	0	36	CTLA4	Melanoma	1	0	0	0
+Group_93845775795	31-50	3	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_19962739190	>71	11	1	25	PD-1/PDL-1	Melanoma	1	0	0	0
+Group_4449227726	61-70	1	1	57	Combo	Melanoma	1	1	0	1
+Group_65231167737	>71	23	1	6	CTLA4	Pancreatic Cancer	0	0	0	0
+Group_78282794532	50-60	5	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_42243312692	>71	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99678003221	50-60	1	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_1224279388	50-60	8	1	3	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Group_6320015052	61-70	19	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_47284383231	>71	21	0	4	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Group_163852513	>71	1	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_36057958712	31-50	2	1	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_2245463771	61-70	7	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Group_8784716063	>71	1	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_4707196059	>71	6	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_44462683958	50-60	3	0	5	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_8706721800	61-70	4	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_52718581475	>71	1	1	6	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Group_95908977175	61-70	25	0	24	CTLA4	Melanoma	0	0	0	0
+Group_47241847912	31-50	4	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_85079955809	31-50	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_18301472360	61-70	14	0	14	Combo	Bladder Cancer	1	0	0	0
+Group_63393250674	<30	4	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_70670374324	50-60	14	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_60370415168	50-60	35	0	46	CTLA4	Melanoma	0	0	0	0
+Group_32332956782	>71	1	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_71131710976	31-50	1	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_95704381905	>71	7	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_91055976647	50-60	14	0	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_20188804571	61-70	11	0	12	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Group_77636106964	61-70	12	0	0	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Group_67749351296	50-60	7	0	25	Combo	Melanoma	0	0	0	0
+Group_20694007608	>71	2	0	1	Combo	Melanoma	0	0	0	0
+Group_23935375110	>71	5	0	2	Combo	Melanoma	0	0	0	0
+Group_15110039206	>71	14	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80075528516	>71	1	0	73	PD-1/PDL-1	Melanoma	1	0	0	1
+Group_29097913603	>71	4	0	25	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Group_87839836281	>71	3	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Group_34663690387	61-70	0	0	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_11975483565	>71	11	0	14	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15291804112	61-70	7	0	10	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Group_38091139370	61-70	13	1	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_23391402162	50-60	4	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_65492869356	31-50	11	0	2	Combo	Melanoma	0	0	0	0
+Group_34446018628	50-60	1	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Group_16843310655	31-50	25	0	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_13423617657	50-60	5	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_84428167982	>71	8	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_65415266670	50-60	6	1	10	PD-1/PDL-1	Cervical Cancer	1	0	0	0
+Group_21870114181	<30	11	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_97250818992	50-60	3	1	3	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Group_46008871924	<30	10	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_77594107191	50-60	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_27711149013	>71	12	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_41441440929	<30	9	1	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Group_68753044927	61-70	4	1	20	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_35761250339	61-70	0	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Group_39215064086	61-70	0	0	48	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_86759368961	61-70	0	0	6	Combo	Bladder Cancer	0	0	0	0
+Group_10739152704	<30	20	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Group_34675809935	50-60	4	1	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_69653114499	>71	19	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_36899320535	>71	7	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_52330122208	>71	2	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_59388350789	61-70	14	1	1	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Group_48110469200	50-60	17	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_7015473972	31-50	32	1	5	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Group_50294420903	>71	7	1	32	Combo	Melanoma	0	0	0	0
+Group_47301959819	50-60	9	0	3	Combo	Cervical Cancer	1	1	0	1
+Group_12762629453	61-70	26	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76304975747	50-60	1	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_84212910787	61-70	12	1	13	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Group_87092697829	31-50	9	0	7	PD-1/PDL-1	Thyroid Cancer	1	1	0	1
+Group_8217896404	61-70	12	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_77095402704	50-60	0	1	20	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Group_10870109067	>71	4	0	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_70697649904	<30	2	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Group_83756692611	61-70	13	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_80286185999	61-70	17	0	2	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_81289188066	>71	19	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Group_35896886989	50-60	24	0	21	CTLA4	Melanoma	0	0	0	1
+Group_78139690541	61-70	11	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_3228918596	>71	0	0	23	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_36701939944	61-70	21	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Group_28829080922	50-60	5	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Group_73164730403	50-60	7	1	7	CTLA4	Melanoma	0	0	0	0
+Group_88334800559	31-50	4	1	2	Combo	Melanoma	0	0	0	0
+Group_92714397552	61-70	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_5382044527	31-50	25	0	3	Combo	Melanoma	0	0	0	0
+Group_41931493900	>71	7	1	78	CTLA4	Melanoma	0	0	0	0
+Group_2050174397	>71	1	0	5	PD-1/PDL-1	Pancreatic Cancer	1	1	0	1
+Group_40374669446	31-50	1	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_2873890310	50-60	6	0	59	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_46467708997	>71	2	0	2	Combo	Mesothelioma	0	0	0	0
+Group_65811230169	61-70	23	1	1	CTLA4	Mesothelioma	0	0	0	0
+Group_22213614592	50-60	4	0	9	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_9031718489	61-70	4	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_67099882027	31-50	6	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_99343619491	61-70	10	1	42	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Group_497606401	61-70	5	0	21	Combo	Melanoma	1	0	1	1
+Group_57522317479	>71	2	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_15903154353	>71	4	0	75	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_14898187032	>71	15	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_98363316499	50-60	2	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_4142404542	>71	2	0	11	PD-1/PDL-1	Thyroid Cancer	0	0	0	1
+Group_32634182943	>71	1	1	9	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Group_13054977294	61-70	6	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Group_41673140061	50-60	4	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Group_69835183816	31-50	22	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Group_51552799112	>71	39	0	49	CTLA4	Melanoma	0	0	0	1
+Group_3956712233	>71	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_59285497831	31-50	1	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_80262399453	31-50	11	0	27	Combo	Melanoma	1	0	0	0
+Group_18560849048	61-70	7	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Group_54152676123	31-50	20	0	8	Combo	Melanoma	0	0	0	0
+Group_26137516753	61-70	13	1	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Group_55936576664	50-60	13	0	45	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Group_40794847625	31-50	12	1	3	Combo	Breast Cancer	1	1	0	1
+Group_93749754534	>71	1	0	11	Combo	Melanoma	0	0	0	0
+Group_80001189367	61-70	19	0	5	Combo	Cervical Cancer	0	0	0	0
+Group_41346078909	50-60	49	0	8	PD-1/PDL-1	Melanoma	1	0	1	1
+Group_98935038134	50-60	26	0	4	Combo	Melanoma	0	0	0	0
+Group_29220369222	>71	1	0	83	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Group_54828574626	31-50	5	0	7	Combo	Melanoma	0	0	0	0
+Group_28803165278	50-60	5	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Group_99499860987	>71	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_76267892630	50-60	3	1	10	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_56994244205	61-70	5	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Group_27595270986	31-50	57	0	5	CTLA4	Melanoma	0	0	0	0
+Group_60584547454	61-70	0	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Group_33694584436	61-70	4	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
