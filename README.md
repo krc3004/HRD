@@ -1,4 +1,4 @@
-# HRD
+# DDR/HRD Manuscript Code Repository
 Code to reproduce main figures of Samstein, Krishna, Chan, Riaz et al
 
 These scripts reproduce the main survival curves from Figures 1 and 3 of the manuscript, as well as the genomics analyses from Figure 2.
