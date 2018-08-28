@@ -1,0 +1,2186 @@
+Sample	Time_to_death	Alive_Dead	TMB	Drug_Class	Cancer_Type	HR_Gene_Set	BRCA1_Mutation	BRCA2_Mutation	HR_Alternative_Gene_Set
+Pat1	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2	8	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat3	6	0	9	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat4	21	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat5	4	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat6	6	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat7	9	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat8	8	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat9	12	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat10	12	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat11	4	1	4	CTLA4	Melanoma	0	0	0	0
+Pat12	10	1	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat13	4	0	1	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat14	2	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat15	1	0	9	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat16	8	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat17	3	0	13	Combo	Melanoma	0	0	0	1
+Pat18	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat19	4	0	13	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat20	39	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat21	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat22	6	0	4	Combo	Bone Cancer	0	0	0	0
+Pat23	5	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat24	49	1	15	Combo	Melanoma	0	0	0	0
+Pat25	13	0	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat26	7	0	3	Combo	Melanoma	0	0	0	0
+Pat27	27	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat28	18	1	7	Combo	Esophagogastric Cancer	0	0	0	0
+Pat29	11	1	10	PD-1/PDL-1	Melanoma	1	0	0	1
+Pat30	9	0	11	Combo	Melanoma	0	0	0	0
+Pat31	19	0	2	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat32	8	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat33	0	0	39	Combo	Melanoma	0	0	0	0
+Pat34	11	0	5	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat35	7	1	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat36	4	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat37	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat38	2	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat39	6	0	22	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat40	3	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat41	1	0	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat42	6	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat43	0	0	47	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat44	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat45	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat46	2	0	4	CTLA4	Breast Cancer	0	0	0	0
+Pat47	0	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat48	4	0	7	CTLA4	Pancreatic Cancer	0	0	0	0
+Pat49	1	0	3	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat50	7	0	10	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	1
+Pat51	1	0	4	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat52	8	0	15	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat53	5	0	52	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat54	27	0	26	CTLA4	Melanoma	1	0	0	0
+Pat55	1	1	10	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat56	5	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat57	4	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat58	20	0	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat59	27	1	6	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat60	17	0	13	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat61	38	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat62	30	0	46	CTLA4	Melanoma	0	0	0	0
+Pat63	3	1	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat64	1	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat65	7	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat66	1	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat67	5	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat68	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat69	14	0	1	PD-1/PDL-1	Hodgkin Lymphoma	1	1	0	1
+Pat70	3	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat71	29	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat72	12	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat73	13	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat74	5	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat75	12	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat76	10	0	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat77	6	0	59	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat78	8	0	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat79	4	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat80	16	0	2	Combo	Melanoma	0	0	0	0
+Pat81	11	1	39	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat82	2	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat83	9	0	38	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat84	3	1	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat85	2	0	41	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Pat86	1	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat87	2	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat88	2	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat89	3	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat90	13	0	14	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat91	10	1	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat92	4	1	35	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat93	3	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat94	8	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	1	0	0	0
+Pat95	17	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat96	30	0	18	CTLA4	Melanoma	0	0	0	0
+Pat97	0	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat98	6	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat99	6	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat100	26	1	3	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat101	6	0	69	Combo	Melanoma	0	0	0	0
+Pat102	4	1	7	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat103	1	0	85	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat104	10	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat105	27	1	1	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat106	6	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat107	25	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat108	3	1	7	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat109	11	1	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat110	1	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat111	10	0	12	Combo	Melanoma	0	0	0	0
+Pat112	2	0	32	PD-1/PDL-1	Melanoma	1	0	0	1
+Pat113	1	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat114	0	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat115	18	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat116	19	1	6	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat117	2	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat118	8	1	5	Combo	Bladder Cancer	0	0	0	0
+Pat119	6	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat120	17	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat121	4	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat122	6	0	16	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat123	0	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat124	1	1	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat125	7	0	1	PD-1/PDL-1	Glioma	0	0	0	0
+Pat126	21	1	3	CTLA4	Ovarian Cancer	0	0	0	0
+Pat127	63	0	42	CTLA4	Melanoma	0	0	0	0
+Pat128	1	1	30	Combo	Melanoma	1	1	0	1
+Pat129	16	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat130	26	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat131	6	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat132	1	1	4	Combo	Ovarian Cancer	0	0	0	0
+Pat133	12	1	42	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat134	29	0	42	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat135	15	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat136	2	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat137	6	1	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat138	14	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat139	47	0	4	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Pat140	2	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat141	1	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat142	0	0	4	PD-1/PDL-1	Esophagogastric Cancer	1	0	1	1
+Pat143	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat144	9	0	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat145	1	0	22	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat146	0	1	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat147	1	0	27	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat148	6	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat149	0	0	0	Combo	Mesothelioma	0	0	0	0
+Pat150	16	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat151	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat152	17	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat153	1	0	15	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat154	2	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat155	4	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat156	2	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat157	11	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat158	7	0	16	Combo	Melanoma	0	0	0	0
+Pat159	7	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat160	14	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat161	5	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat162	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat163	32	0	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat164	13	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat165	4	0	1	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat166	1	0	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat167	17	0	20	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat168	5	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat169	1	1	6	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Pat170	1	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat171	15	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat172	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat173	5	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat174	29	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat175	16	0	1	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat176	25	0	16	Combo	Melanoma	0	0	0	0
+Pat177	2	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat178	5	1	47	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Pat179	14	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat180	6	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat181	7	0	8	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat182	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat183	4	1	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat184	0	0	23	Combo	Melanoma	0	0	0	0
+Pat185	34	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat186	5	0	5	CTLA4	Prostate Cancer	0	0	0	0
+Pat187	7	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat188	2	0	11	Combo	Mesothelioma	0	0	0	0
+Pat189	33	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat190	21	1	20	CTLA4	Melanoma	0	0	0	0
+Pat191	11	1	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat192	5	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat193	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat194	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat195	9	0	3	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Pat196	7	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat197	5	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat198	15	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat199	3	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat200	13	0	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat201	22	0	8	Combo	Bladder Cancer	1	0	1	1
+Pat202	5	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat203	2	1	0	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Pat204	6	0	100	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat205	4	1	2	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat206	9	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat207	7	1	7	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat208	15	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat209	19	0	16	Combo	Melanoma	0	0	0	0
+Pat210	11	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat211	22	1	6	Combo	Melanoma	0	0	0	0
+Pat212	1	0	3	Combo	Melanoma	0	0	0	0
+Pat213	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat214	4	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat215	1	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat216	7	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat217	8	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat218	10	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat219	0	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat220	0	0	1	Combo	Endometrial Cancer	0	0	0	0
+Pat221	4	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat222	4	0	3	PD-1/PDL-1	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat223	11	0	15	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat224	7	0	59	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat225	14	1	2	PD-1/PDL-1	Cervical Cancer	1	0	1	1
+Pat226	12	1	0	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat227	4	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat228	3	0	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat229	7	0	5	Combo	Melanoma	0	0	0	0
+Pat230	7	1	12	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat231	20	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat232	8	1	8	Combo	Melanoma	0	0	0	0
+Pat233	9	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat234	0	1	17	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat235	5	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat236	1	0	1	PD-1/PDL-1	Thymic Tumor	0	0	0	0
+Pat237	3	0	19	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat238	2	1	5	CTLA4	Pancreatic Cancer	0	0	0	0
+Pat239	3	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat240	18	0	15	CTLA4	Breast Cancer	0	0	0	0
+Pat241	4	1	7	Combo	Melanoma	0	0	0	0
+Pat242	0	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat243	10	1	1	CTLA4	Melanoma	0	0	0	0
+Pat244	6	0	1	PD-1/PDL-1	Mesothelioma	1	0	0	0
+Pat245	5	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat246	11	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Pat247	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat248	3	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat249	3	1	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat250	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat251	10	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat252	19	0	19	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat253	17	0	7	Combo	Head and Neck Cancer	0	0	0	0
+Pat254	3	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat255	4	1	1	CTLA4	Breast Cancer	1	1	0	1
+Pat256	28	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat257	41	1	2	Combo	Melanoma	0	0	0	0
+Pat258	8	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat259	14	0	40	Combo	Melanoma	0	0	0	0
+Pat260	9	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat261	8	1	43	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat262	14	0	10	CTLA4	Melanoma	0	0	0	0
+Pat263	6	0	15	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Pat264	2	1	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat265	37	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat266	4	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat267	6	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat268	8	0	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat269	10	0	21	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat270	5	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat271	15	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat272	19	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat273	6	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat274	2	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat275	7	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat276	9	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat277	31	0	33	CTLA4	Melanoma	1	0	0	0
+Pat278	12	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat279	1	0	48	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat280	2	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat281	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat282	5	0	2	CTLA4	Melanoma	0	0	0	0
+Pat283	14	0	68	Combo	Melanoma	0	0	0	0
+Pat284	11	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat285	8	1	7	Combo	Esophagogastric Cancer	0	0	0	0
+Pat286	1	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat287	17	0	10	Combo	Bladder Cancer	0	0	0	0
+Pat288	0	0	6	Combo	NA	0	0	0	0
+Pat289	17	1	4	CTLA4	Melanoma	0	0	0	0
+Pat290	8	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat291	5	0	0	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Pat292	7	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat293	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat294	2	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat295	0	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat296	3	1	0	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat297	12	1	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat298	4	1	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat299	3	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat300	15	0	8	Combo	Ovarian Cancer	0	0	0	0
+Pat301	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat302	3	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat303	2	0	10	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat304	2	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat305	6	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat306	16	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat307	7	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat308	23	1	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat309	14	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat310	18	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat311	4	1	2	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat312	4	1	6	CTLA4	Melanoma	1	1	0	1
+Pat313	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat314	40	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat315	10	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat316	2	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat317	12	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat318	7	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat319	25	0	35	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat320	2	0	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat321	3	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat322	0	1	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat323	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat324	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat325	6	0	10	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat326	11	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat327	20	0	1	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat328	2	1	1	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat329	7	1	35	CTLA4	Melanoma	1	0	1	1
+Pat330	15	0	3	Combo	Ovarian Cancer	0	0	0	0
+Pat331	16	0	8	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Pat332	9	0	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat333	0	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat334	6	1	18	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat335	3	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat336	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat337	13	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat338	2	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat339	52	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat340	11	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat341	6	1	16	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat342	15	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat343	20	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat344	27	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat345	2	1	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat346	3	0	17	Combo	Melanoma	0	0	0	0
+Pat347	2	1	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat348	3	0	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat349	8	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat350	13	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat351	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat352	2	1	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat353	26	1	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat354	4	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat355	56	0	51	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat356	8	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat357	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat358	26	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat359	13	1	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat360	9	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat361	10	0	0	PD-1/PDL-1	Glioma	0	0	0	0
+Pat362	12	0	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat363	6	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat364	4	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat365	16	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat366	0	0	0	Combo	Esophagogastric Cancer	0	0	0	0
+Pat367	5	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat368	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat369	3	0	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat370	3	1	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat371	21	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat372	9	0	3	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat373	9	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat374	3	1	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat375	1	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat376	20	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat377	1	1	52	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat378	0	0	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat379	14	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat380	0	0	0	PD-1/PDL-1	Sellar Tumor	0	0	0	0
+Pat381	15	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat382	1	1	17	Combo	Melanoma	0	0	0	0
+Pat383	2	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat384	14	1	3	PD-1/PDL-1	Endometrial Cancer	1	0	1	1
+Pat385	10	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat386	9	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat387	9	0	2	PD-1/PDL-1	Hepatobiliary Cancer	1	1	0	1
+Pat388	12	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat389	4	0	5	PD-1/PDL-1	Endometrial Cancer	1	1	1	1
+Pat390	17	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat391	15	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat392	10	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat393	3	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat394	23	0	4	Combo	Renal Cell Carcinoma	1	1	0	1
+Pat395	32	1	19	CTLA4	Melanoma	1	0	0	1
+Pat396	18	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat397	3	0	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat398	2	0	2	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat399	3	0	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat400	15	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat401	13	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat402	11	0	0	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat403	10	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	1
+Pat404	13	1	11	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat405	10	0	21	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat406	13	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat407	1	1	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat408	1	0	43	Combo	Endometrial Cancer	0	0	0	1
+Pat409	0	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat410	12	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat411	8	0	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat412	19	0	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat413	4	0	53	PD-1/PDL-1	Glioma	1	1	0	1
+Pat414	2	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat415	22	0	3	CTLA4	Prostate Cancer	1	1	0	1
+Pat416	17	0	44	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat417	5	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat418	11	1	7	Combo	Melanoma	0	0	0	0
+Pat419	13	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat420	18	0	25	Combo	Bladder Cancer	0	0	0	0
+Pat421	11	1	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat422	18	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat423	0	0	3	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat424	3	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat425	2	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat426	21	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat427	4	0	6	Combo	Cervical Cancer	0	0	0	0
+Pat428	1	1	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat429	2	0	2	Combo	Pancreatic Cancer	0	0	0	0
+Pat430	14	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat431	57	0	21	CTLA4	Melanoma	0	0	0	0
+Pat432	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat433	7	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat434	9	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat435	1	0	43	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Pat436	10	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat437	6	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat438	0	0	4	PD-1/PDL-1	Breast Cancer	1	0	1	1
+Pat439	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat440	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat441	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat442	23	0	1	PD-1/PDL-1	Germ Cell Tumor	0	0	0	0
+Pat443	13	0	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat444	8	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat445	13	0	4	Combo	Ovarian Cancer	0	0	0	0
+Pat446	2	1	22	Combo	Melanoma	1	1	0	1
+Pat447	13	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat448	6	0	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat449	22	0	36	Combo	Melanoma	0	0	0	0
+Pat450	5	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat451	1	0	2	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat452	2	1	9	PD-1/PDL-1	Small Cell Lung Cancer	1	0	0	0
+Pat453	12	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat454	3	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat455	10	1	0	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat456	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat457	4	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat458	0	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat459	2	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat460	4	0	5	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat461	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat462	35	0	10	CTLA4	Melanoma	0	0	0	0
+Pat463	5	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat464	4	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat465	3	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat466	6	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat467	38	0	15	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	1
+Pat468	6	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat469	1	0	7	Combo	Small Cell Lung Cancer	1	1	1	1
+Pat470	3	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat471	14	1	3	Combo	Melanoma	0	0	0	0
+Pat472	8	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat473	13	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat474	1	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat475	12	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat476	6	1	20	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat477	12	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat478	11	1	2	Combo	Melanoma	0	0	0	0
+Pat479	6	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat480	1	0	3	Combo	Esophagogastric Cancer	0	0	0	0
+Pat481	2	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat482	4	0	0	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat483	2	0	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat484	47	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat485	32	1	9	Combo	Melanoma	0	0	0	0
+Pat486	17	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat487	11	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat488	16	1	7	CTLA4	Melanoma	1	0	0	0
+Pat489	12	0	12	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat490	4	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat491	11	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat492	12	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat493	1	1	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat494	11	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat495	3	1	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat496	1	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat497	6	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat498	36	0	126	Combo	Melanoma	1	0	1	1
+Pat499	0	0	1	Combo	Melanoma	0	0	0	0
+Pat500	3	1	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat501	5	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat502	10	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat503	30	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat504	29	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat505	12	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat506	3	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat507	13	0	2	Combo	Melanoma	0	0	0	0
+Pat508	9	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat509	12	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat510	6	0	2	Combo	Melanoma	1	1	0	1
+Pat511	14	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat512	9	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat513	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat514	7	0	7	Combo	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat515	9	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat516	0	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat517	34	0	8	CTLA4	Melanoma	0	0	0	0
+Pat518	7	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat519	11	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat520	2	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat521	8	0	8	Combo	Melanoma	0	0	0	0
+Pat522	2	1	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat523	15	0	35	Combo	Melanoma	1	0	1	1
+Pat524	5	0	24	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat525	15	0	210	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat526	0	1	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat527	8	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat528	15	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat529	31	0	3	CTLA4	Prostate Cancer	1	0	0	0
+Pat530	25	0	67	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat531	12	1	4	Combo	Colorectal Cancer	0	0	0	0
+Pat532	15	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat533	6	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat534	34	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat535	0	1	1	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat536	16	0	10	Combo	Melanoma	0	0	0	0
+Pat537	13	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat538	7	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat539	5	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat540	5	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat541	2	1	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat542	6	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat543	15	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat544	2	1	0	Combo	Melanoma	0	0	0	0
+Pat545	24	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat546	9	0	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat547	15	1	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat548	12	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat549	3	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat550	1	0	2	PD-1/PDL-1	Ovarian Cancer	1	0	0	0
+Pat551	25	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat552	3	1	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat553	3	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat554	9	0	24	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat555	7	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat556	12	0	9	PD-1/PDL-1	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Pat557	5	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat558	11	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat559	9	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat560	0	1	12	PD-1/PDL-1	Breast Cancer	1	0	0	0
+Pat561	12	1	5	Combo	Head and Neck Cancer	0	0	0	0
+Pat562	1	0	2	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat563	13	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat564	8	0	47	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat565	6	0	5	PD-1/PDL-1	Ovarian Cancer	1	0	1	1
+Pat566	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat567	8	0	13	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat568	20	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat569	14	0	14	Combo	Melanoma	0	0	0	0
+Pat570	1	0	3	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat571	5	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat572	8	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat573	2	1	2	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat574	13	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat575	12	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat576	0	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat577	1	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat578	8	1	9	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Pat579	13	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat580	5	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat581	1	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat582	13	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat583	1	1	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat584	10	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat585	1	0	4	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat586	10	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat587	12	1	25	Combo	Bladder Cancer	0	0	0	0
+Pat588	2	1	6	Combo	Head and Neck Cancer	0	0	0	0
+Pat589	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat590	14	0	0	PD-1/PDL-1	Appendiceal Cancer	0	0	0	0
+Pat591	6	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat592	6	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat593	4	0	4	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat594	4	1	36	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat595	9	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat596	1	1	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat597	1	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat598	26	0	0	CTLA4	Prostate Cancer	0	0	0	0
+Pat599	20	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat600	2	1	153	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat601	6	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat602	3	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat603	21	0	18	CTLA4	Melanoma	0	0	0	0
+Pat604	5	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat605	3	0	46	PD-1/PDL-1	Soft Tissue Sarcoma	1	0	0	1
+Pat606	19	0	12	Combo	Melanoma	0	0	0	0
+Pat607	9	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat608	5	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Pat609	1	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat610	69	0	183	CTLA4	Melanoma	1	0	1	1
+Pat611	8	0	9	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat612	4	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat613	39	0	9	Combo	Melanoma	0	0	0	0
+Pat614	5	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat615	20	0	8	Combo	Melanoma	0	0	0	0
+Pat616	12	0	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat617	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat618	22	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat619	9	0	29	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat620	9	1	14	PD-1/PDL-1	Colorectal Cancer	1	0	0	1
+Pat621	13	0	63	PD-1/PDL-1	Glioma	0	0	0	0
+Pat622	1	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat623	5	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat624	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat625	7	0	2	Combo	Breast Cancer	0	0	0	0
+Pat626	1	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat627	21	0	3	CTLA4	Melanoma	0	0	0	0
+Pat628	10	1	2	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat629	6	1	25	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat630	28	0	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat631	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat632	8	0	36	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat633	3	1	30	PD-1/PDL-1	Glioma	1	0	0	0
+Pat634	24	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat635	10	1	2	CTLA4	Mesothelioma	0	0	0	0
+Pat636	25	0	7	Combo	Bladder Cancer	1	0	1	1
+Pat637	10	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat638	4	1	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat639	5	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat640	25	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat641	0	0	5	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat642	10	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat643	2	0	42	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat644	2	1	4	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat645	9	1	17	PD-1/PDL-1	Non-Hodgkin Lymphoma	1	0	1	1
+Pat646	38	0	3	Combo	Melanoma	0	0	0	0
+Pat647	5	0	1	CTLA4	Melanoma	0	0	0	0
+Pat648	20	0	17	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat649	5	1	5	Combo	Head and Neck Cancer	0	0	0	0
+Pat650	1	0	8	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat651	10	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Pat652	3	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat653	28	0	0	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat654	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat655	8	1	0	CTLA4	Mesothelioma	0	0	0	0
+Pat656	17	1	4	Combo	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat657	11	0	3	Combo	Esophagogastric Cancer	0	0	0	0
+Pat658	6	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat659	43	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat660	1	1	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat661	54	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat662	6	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat663	3	1	1	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat664	10	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat665	46	0	6	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat666	68	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat667	11	0	7	PD-1/PDL-1	Bladder Cancer	1	1	0	1
+Pat668	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat669	12	0	5	Combo	Melanoma	0	0	0	0
+Pat670	4	0	16	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat671	36	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat672	0	1	2	Combo	Ovarian Cancer	0	0	0	0
+Pat673	2	1	11	Combo	Melanoma	0	0	0	0
+Pat674	9	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat675	1	0	18	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat676	9	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat677	21	0	5	Combo	Melanoma	0	0	0	0
+Pat678	5	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat679	2	0	53	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Pat680	17	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat681	4	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat682	2	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat683	1	1	7	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat684	5	1	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat685	17	1	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat686	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat687	0	0	0	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat688	11	0	7	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat689	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat690	4	0	18	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat691	27	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat692	3	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat693	0	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat694	4	1	11	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat695	3	0	8	Combo	Esophagogastric Cancer	0	0	0	0
+Pat696	22	0	2	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat697	34	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat698	3	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat699	4	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat700	5	0	29	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat701	29	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat702	10	0	11	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat703	16	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat704	17	0	47	Combo	Breast Cancer	0	0	0	1
+Pat705	39	0	11	CTLA4	Melanoma	0	0	0	0
+Pat706	18	0	21	Combo	Melanoma	1	1	0	1
+Pat707	6	1	9	Combo	Esophagogastric Cancer	0	0	0	0
+Pat708	5	0	9	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat709	0	0	3	PD-1/PDL-1	CNS Cancer	0	0	0	0
+Pat710	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat711	6	1	2	Combo	Ovarian Cancer	0	0	0	0
+Pat712	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat713	22	0	9	Combo	Melanoma	0	0	0	0
+Pat714	3	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat715	2	1	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat716	11	0	7	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat717	11	0	4	Combo	Ovarian Cancer	0	0	0	1
+Pat718	16	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat719	12	0	2	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat720	14	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat721	2	0	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat722	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat723	5	0	2	Combo	Cancer of Unknown Primary	0	0	0	0
+Pat724	2	0	0	Combo	Melanoma	0	0	0	0
+Pat725	9	1	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat726	22	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat727	9	1	6	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat728	13	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat729	1	0	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat730	10	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat731	4	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat732	4	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat733	28	0	2	Combo	Esophagogastric Cancer	0	0	0	0
+Pat734	3	1	21	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat735	0	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat736	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat737	7	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat738	15	0	44	Combo	Melanoma	0	0	0	0
+Pat739	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat740	32	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat741	58	1	13	CTLA4	Melanoma	0	0	0	0
+Pat742	2	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat743	12	0	13	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat744	4	1	12	Combo	Esophagogastric Cancer	0	0	0	0
+Pat745	0	0	3	Combo	Melanoma	0	0	0	0
+Pat746	1	0	164	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat747	8	1	4	PD-1/PDL-1	Head and Neck Cancer	1	0	1	1
+Pat748	2	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat749	14	0	64	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	0	0	0
+Pat750	13	1	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat751	9	1	2	Combo	Esophagogastric Cancer	1	1	0	1
+Pat752	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat753	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat754	13	0	2	Combo	Melanoma	0	0	0	0
+Pat755	7	1	8	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Pat756	0	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat757	7	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat758	33	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat759	4	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat760	0	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat761	19	1	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat762	3	0	1	CTLA4	Bone Cancer	0	0	0	0
+Pat763	1	0	10	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat764	1	1	17	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat765	3	0	9	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat766	8	0	26	Combo	Melanoma	0	0	0	0
+Pat767	4	0	14	Combo	Melanoma	0	0	0	0
+Pat768	13	1	3	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat769	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat770	8	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat771	7	1	11	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Pat772	10	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat773	36	0	13	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat774	5	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat775	18	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat776	0	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat777	16	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat778	4	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat779	6	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat780	19	0	3	Combo	Melanoma	0	0	0	0
+Pat781	16	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat782	3	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat783	1	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat784	0	0	2	Combo	Mesothelioma	0	0	0	0
+Pat785	4	1	6	Combo	Bladder Cancer	0	0	0	1
+Pat786	3	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat787	29	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat788	0	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat789	3	1	23	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat790	17	0	2	Combo	Ovarian Cancer	0	0	0	0
+Pat791	6	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat792	23	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat793	22	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat794	3	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat795	1	0	1	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat796	5	0	18	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat797	25	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat798	11	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat799	4	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat800	9	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat801	0	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat802	11	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat803	5	1	1	CTLA4	Melanoma	0	0	0	0
+Pat804	47	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat805	1	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat806	2	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat807	0	0	10	Combo	Endometrial Cancer	0	0	0	0
+Pat808	10	0	11	Combo	Melanoma	0	0	0	0
+Pat809	18	1	1	CTLA4	Mesothelioma	0	0	0	0
+Pat810	4	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat811	9	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat812	20	0	45	Combo	Melanoma	1	0	1	1
+Pat813	16	1	2	CTLA4	Soft Tissue Sarcoma	0	0	0	0
+Pat814	1	1	25	PD-1/PDL-1	Bladder Cancer	1	1	0	1
+Pat815	1	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat816	7	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat817	2	1	4	Combo	Head and Neck Cancer	0	0	0	1
+Pat818	4	0	14	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat819	4	0	4	Combo	Glioma	0	0	0	1
+Pat820	7	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat821	15	0	9	Combo	Ovarian Cancer	0	0	0	0
+Pat822	32	0	1	CTLA4	Melanoma	0	0	0	0
+Pat823	8	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat824	9	0	4	PD-1/PDL-1	Embryonal Tumor	0	0	0	0
+Pat825	2	0	11	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat826	4	1	0	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat827	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Pat828	29	0	1	CTLA4	Prostate Cancer	1	1	0	1
+Pat829	5	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat830	8	0	5	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Pat831	14	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat832	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat833	20	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat834	4	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat835	5	1	51	PD-1/PDL-1	Glioma	1	0	1	1
+Pat836	21	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat837	7	1	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat838	5	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat839	35	0	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat840	4	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat841	7	0	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat842	1	1	5	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat843	9	0	9	Combo	Ovarian Cancer	1	1	0	1
+Pat844	5	0	96	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat845	6	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat846	16	0	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat847	13	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat848	14	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat849	1	0	4	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat850	10	0	11	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat851	6	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat852	2	1	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat853	29	0	4	Combo	Glioma	0	0	0	0
+Pat854	12	0	5	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat855	7	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat856	35	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat857	11	0	31	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat858	5	0	14	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat859	2	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat860	5	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat861	3	1	4	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat862	3	0	48	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat863	4	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat864	6	0	26	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat865	15	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat866	6	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat867	6	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	1
+Pat868	4	1	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat869	0	1	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat870	4	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat871	23	1	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat872	17	1	52	PD-1/PDL-1	Endometrial Cancer	1	0	0	0
+Pat873	10	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat874	56	0	16	CTLA4	Melanoma	0	0	0	0
+Pat875	6	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat876	25	1	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat877	3	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat878	25	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat879	1	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat880	13	1	152	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat881	30	0	17	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat882	1	1	2	Combo	Melanoma	0	0	0	0
+Pat883	7	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat884	4	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat885	2	1	0	PD-1/PDL-1	Mesothelioma	1	0	1	1
+Pat886	21	0	11	Combo	Melanoma	0	0	0	0
+Pat887	5	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat888	11	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat889	10	1	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat890	18	0	4	CTLA4	Breast Cancer	1	0	1	1
+Pat891	7	0	67	PD-1/PDL-1	Head and Neck Cancer	1	0	0	1
+Pat892	3	0	15	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat893	16	0	23	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat894	49	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat895	3	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat896	9	1	17	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat897	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat898	43	0	4	CTLA4	Melanoma	0	0	0	0
+Pat899	4	0	92	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat900	24	0	4	CTLA4	Prostate Cancer	0	0	0	0
+Pat901	28	0	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat902	0	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat903	18	0	4	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat904	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat905	6	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat906	1	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat907	6	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Pat908	13	0	27	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat909	0	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat910	7	0	4	CTLA4	Mesothelioma	0	0	0	0
+Pat911	7	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat912	2	1	6	Combo	Melanoma	0	0	0	0
+Pat913	0	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat914	23	0	16	Combo	Melanoma	0	0	0	0
+Pat915	33	0	42	CTLA4	Melanoma	0	0	0	1
+Pat916	8	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat917	1	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat918	21	0	19	Combo	Melanoma	0	0	0	0
+Pat919	8	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat920	26	0	9	Combo	Melanoma	1	1	0	1
+Pat921	15	0	0	Combo	NA	0	0	0	0
+Pat922	9	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat923	3	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat924	5	0	2	PD-1/PDL-1	Sex Cord Stromal Tumor	0	0	0	0
+Pat925	6	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat926	0	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat927	18	0	5	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat928	2	0	9	PD-1/PDL-1	Endometrial Cancer	0	0	0	1
+Pat929	7	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat930	5	1	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat931	17	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat932	1	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat933	30	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat934	11	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat935	12	0	0	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat936	2	0	8	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat937	14	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat938	6	0	8	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat939	11	0	5	CTLA4	Breast Cancer	0	0	0	0
+Pat940	23	0	6	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat941	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat942	29	0	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat943	33	0	18	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat944	1	1	5	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Pat945	14	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat946	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat947	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat948	32	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat949	33	1	8	Combo	Melanoma	0	0	0	0
+Pat950	11	1	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	1
+Pat951	9	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat952	2	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat953	11	0	2	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat954	2	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat955	8	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat956	8	0	3	Combo	Melanoma	0	0	0	0
+Pat957	20	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat958	3	1	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat959	5	1	2	Combo	Ovarian Cancer	0	0	0	0
+Pat960	4	1	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat961	0	1	9	PD-1/PDL-1	Glioma	0	0	0	0
+Pat962	20	0	66	PD-1/PDL-1	Colorectal Cancer	1	1	1	1
+Pat963	4	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat964	3	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat965	34	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat966	5	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat967	4	0	7	PD-1/PDL-1	Glioma	0	0	0	0
+Pat968	15	0	61	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat969	8	0	21	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat970	0	0	50	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	1
+Pat971	20	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat972	0	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat973	3	1	9	Combo	Melanoma	0	0	0	0
+Pat974	7	0	29	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat975	28	0	23	CTLA4	Melanoma	1	0	0	1
+Pat976	10	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat977	7	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat978	40	0	8	Combo	Melanoma	0	0	0	0
+Pat979	18	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat980	2	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat981	8	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat982	4	1	13	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat983	3	0	37	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat984	0	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat985	15	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat986	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat987	0	0	1	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat988	1	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat989	0	0	6	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat990	12	0	105	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	1
+Pat991	6	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat992	8	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat993	4	1	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat994	7	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat995	9	0	2	Combo	Melanoma	0	0	0	0
+Pat996	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat997	2	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat998	3	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat999	1	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1000	20	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1001	25	0	30	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1002	8	0	0	PD-1/PDL-1	Sellar Tumor	0	0	0	0
+Pat1003	7	1	16	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1004	2	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1005	3	1	3	Combo	Pancreatic Cancer	0	0	0	0
+Pat1006	2	0	5	PD-1/PDL-1	Head and Neck Cancer	1	0	1	1
+Pat1007	19	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1008	1	1	10	CTLA4	Breast Cancer	0	0	0	0
+Pat1009	15	1	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1010	13	0	7	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1011	2	0	5	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1012	4	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1013	30	0	3	CTLA4	Prostate Cancer	0	0	0	0
+Pat1014	1	0	3	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1015	2	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1016	40	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1017	1	0	4	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat1018	43	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1019	11	0	27	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1020	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1021	8	0	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat1022	29	1	2	CTLA4	Melanoma	1	0	0	0
+Pat1023	5	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1024	26	0	2	CTLA4	Prostate Cancer	1	0	1	1
+Pat1025	4	1	11	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1026	4	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1027	0	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1028	6	0	61	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat1029	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1030	8	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1031	8	1	25	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1032	0	1	15	Combo	Melanoma	1	0	1	1
+Pat1033	33	1	0	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1034	3	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1035	6	1	2	PD-1/PDL-1	NA	0	0	0	0
+Pat1036	4	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1037	13	1	0	Combo	Anal Cancer	0	0	0	0
+Pat1038	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1039	5	0	1	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1040	0	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1041	11	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1042	34	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1043	18	1	1	CTLA4	Prostate Cancer	0	0	0	0
+Pat1044	6	0	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat1045	10	1	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1046	0	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1047	7	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1048	0	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1049	7	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1050	7	0	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat1051	15	1	4	CTLA4	Breast Cancer	0	0	0	0
+Pat1052	1	0	9	Combo	Melanoma	1	0	1	1
+Pat1053	14	0	35	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1054	14	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1055	2	0	37	PD-1/PDL-1	Colorectal Cancer	1	0	0	1
+Pat1056	18	0	9	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1057	9	0	47	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat1058	13	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1059	17	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1060	32	0	14	CTLA4	Melanoma	1	0	1	1
+Pat1061	3	0	4	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1062	36	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1063	10	0	15	Combo	Soft Tissue Sarcoma	1	0	1	1
+Pat1064	3	0	18	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1065	1	0	75	Combo	Melanoma	1	0	0	1
+Pat1066	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1067	4	1	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1068	13	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1069	6	1	11	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1070	2	0	2	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1071	45	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1072	10	1	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1073	3	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1074	19	0	1	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1075	2	1	6	Combo	Colorectal Cancer	1	0	0	0
+Pat1076	7	1	2	PD-1/PDL-1	Head and Neck Cancer	1	0	0	0
+Pat1077	18	0	18	Combo	Melanoma	0	0	0	0
+Pat1078	4	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1079	3	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1080	17	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1081	13	0	66	Combo	Melanoma	0	0	0	0
+Pat1082	11	0	6	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1083	2	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1084	12	0	51	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1085	7	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1086	30	1	2	CTLA4	Melanoma	0	0	0	0
+Pat1087	35	0	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat1088	6	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Pat1089	6	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1090	6	1	0	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat1091	25	1	1	Combo	Melanoma	0	0	0	0
+Pat1092	9	1	2	CTLA4	Breast Cancer	0	0	0	0
+Pat1093	3	0	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Pat1094	20	0	44	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat1095	7	1	7	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat1096	8	0	4	Combo	Melanoma	0	0	0	0
+Pat1097	33	1	6	Combo	Melanoma	0	0	0	0
+Pat1098	2	1	3	Combo	Breast Cancer	0	0	0	0
+Pat1099	15	0	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1100	1	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1101	8	1	5	Combo	Ovarian Cancer	0	0	0	0
+Pat1102	21	0	6	Combo	Melanoma	0	0	0	0
+Pat1103	10	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1104	19	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1105	4	1	5	Combo	Cervical Cancer	0	0	0	0
+Pat1106	21	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1107	1	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1108	2	1	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1109	4	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1110	8	0	54	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1111	10	0	16	Combo	Melanoma	1	0	0	0
+Pat1112	13	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1113	13	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1114	58	0	8	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1115	14	1	5	PD-1/PDL-1	Glioma	1	0	0	0
+Pat1116	2	0	75	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1117	12	0	53	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1118	13	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1119	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1120	18	0	16	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1121	10	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1122	2	1	8	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1123	0	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1124	13	0	22	Combo	Melanoma	0	0	0	0
+Pat1125	0	0	1	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Pat1126	4	0	13	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1127	11	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1128	1	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1129	10	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1130	0	1	1	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat1131	1	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1132	6	1	43	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Pat1133	8	0	10	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1134	4	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1135	12	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1136	18	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1137	2	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1138	8	0	26	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1139	6	1	4	Combo	Pancreatic Cancer	0	0	0	0
+Pat1140	6	1	10	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1141	2	0	17	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1142	3	0	10	PD-1/PDL-1	Glioma	1	0	1	1
+Pat1143	39	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1144	1	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1145	3	1	2	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat1146	1	1	5	PD-1/PDL-1	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Pat1147	21	1	22	Combo	Glioma	0	0	0	0
+Pat1148	13	0	71	Combo	Melanoma	0	0	0	1
+Pat1149	2	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1150	2	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1151	0	0	1	Combo	Melanoma	0	0	0	0
+Pat1152	9	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1153	8	0	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1154	3	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1155	7	0	17	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1156	4	0	0	PD-1/PDL-1	Hodgkin Lymphoma	0	0	0	0
+Pat1157	1	0	10	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat1158	2	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1159	3	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1160	2	1	4	Combo	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1161	16	0	5	Combo	Melanoma	1	1	0	1
+Pat1162	6	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1163	1	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1164	3	1	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1165	1	0	178	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat1166	21	1	6	CTLA4	Esophagogastric Cancer	0	0	0	0
+Pat1167	16	0	6	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat1168	5	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1169	9	1	6	Combo	Breast Cancer	0	0	0	0
+Pat1170	3	0	0	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Pat1171	3	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1172	22	1	8	PD-1/PDL-1	Germ Cell Tumor	1	1	0	1
+Pat1173	24	1	26	Combo	Melanoma	0	0	0	0
+Pat1174	4	0	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1175	1	1	9	PD-1/PDL-1	Esophagogastric Cancer	1	1	0	1
+Pat1176	3	0	21	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1177	16	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1178	5	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1179	2	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1180	1	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1181	7	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1182	5	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1183	0	0	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1184	55	0	21	CTLA4	Melanoma	1	0	1	1
+Pat1185	3	1	2	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1186	13	0	2	Combo	Melanoma	0	0	0	0
+Pat1187	21	1	5	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1188	7	0	2	PD-1/PDL-1	Hodgkin Lymphoma	0	0	0	0
+Pat1189	10	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1190	4	1	6	PD-1/PDL-1	Bladder Cancer	1	0	0	1
+Pat1191	18	0	6	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1192	5	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1193	8	0	27	CTLA4	Melanoma	0	0	0	0
+Pat1194	9	0	3	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat1195	16	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1196	25	0	72	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1197	8	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1198	2	1	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1199	1	0	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1200	39	0	23	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat1201	11	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1202	10	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1203	0	1	20	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1204	5	1	7	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1205	15	1	49	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1206	6	0	1	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat1207	0	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1208	39	0	93	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1209	13	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1210	8	0	16	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1211	7	1	11	Combo	Bladder Cancer	0	0	0	0
+Pat1212	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1213	1	1	4	Combo	Pancreatic Cancer	0	0	0	0
+Pat1214	58	0	20	CTLA4	Melanoma	0	0	0	0
+Pat1215	1	1	0	CTLA4	Breast Cancer	0	0	0	0
+Pat1216	10	1	9	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1217	9	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1218	2	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat1219	15	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1220	30	0	14	Combo	Non-Small Cell Lung Cancer	1	0	0	1
+Pat1221	4	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1222	10	0	32	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1223	13	1	14	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1224	17	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1225	19	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1226	21	1	2	PD-1/PDL-1	Glioma	1	0	0	0
+Pat1227	9	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1228	5	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1229	13	1	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat1230	58	0	1	CTLA4	Melanoma	0	0	0	0
+Pat1231	12	0	103	PD-1/PDL-1	Melanoma	1	1	0	1
+Pat1232	6	0	7	Combo	Cancer of Unknown Primary	1	0	0	0
+Pat1233	1	0	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1234	2	1	10	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat1235	5	0	61	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Pat1236	0	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1237	27	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1238	1	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1239	10	0	16	PD-1/PDL-1	Bladder Cancer	0	0	0	1
+Pat1240	0	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1241	1	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1242	8	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1243	0	0	37	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1244	0	0	2	Combo	Small Cell Lung Cancer	1	0	0	0
+Pat1245	11	0	15	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1246	6	0	6	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat1247	12	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1248	8	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1249	2	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1250	0	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1251	6	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1252	7	0	35	Combo	Melanoma	0	0	0	0
+Pat1253	2	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1254	32	0	17	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1255	8	1	2	CTLA4	Mesothelioma	0	0	0	0
+Pat1256	23	0	5	Combo	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1257	0	1	5	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1258	24	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1259	23	0	6	PD-1/PDL-1	Glioma	1	0	0	0
+Pat1260	27	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1261	29	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1262	7	1	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1263	1	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1264	3	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1265	39	0	3	CTLA4	Melanoma	0	0	0	0
+Pat1266	1	1	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1267	5	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1268	1	1	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1269	2	0	7	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1270	1	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	1
+Pat1271	1	1	11	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Pat1272	1	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1273	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1274	4	1	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1275	1	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1276	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1277	4	1	3	CTLA4	Mesothelioma	0	0	0	0
+Pat1278	4	0	4	Combo	Melanoma	0	0	0	0
+Pat1279	1	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1280	1	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1281	9	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1282	1	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1283	29	0	33	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1284	27	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1285	18	0	3	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1286	5	0	50	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1287	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1288	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1289	2	1	3	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Pat1290	0	0	6	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1291	1	1	4	Combo	Melanoma	0	0	0	0
+Pat1292	1	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1293	4	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1294	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1295	2	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1296	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1297	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1298	3	1	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1299	5	1	2	CTLA4	Breast Cancer	1	1	0	1
+Pat1300	5	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1301	6	1	2	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat1302	24	0	0	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1303	3	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1304	2	1	5	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat1305	1	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1306	5	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1307	1	1	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1308	2	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1309	14	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1310	3	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1311	20	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Pat1312	10	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1313	2	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1314	20	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1315	7	0	3	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat1316	1	1	3	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat1317	0	0	18	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1318	14	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1319	18	1	6	CTLA4	Melanoma	0	0	0	0
+Pat1320	1	1	7	Combo	Melanoma	0	0	0	0
+Pat1321	4	1	7	PD-1/PDL-1	Cervical Cancer	1	0	1	1
+Pat1322	26	1	0	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1323	2	0	2	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1324	1	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1325	11	0	0	Combo	Soft Tissue Sarcoma	0	0	0	0
+Pat1326	4	0	33	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1327	1	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1328	13	1	3	CTLA4	Melanoma	0	0	0	0
+Pat1329	5	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1330	22	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1331	6	0	95	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat1332	5	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1333	5	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1334	4	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1335	5	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1336	11	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1337	9	0	9	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1338	20	0	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1339	10	1	3	Combo	Ovarian Cancer	0	0	0	0
+Pat1340	3	0	16	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat1341	21	0	10	Combo	Melanoma	0	0	0	0
+Pat1342	1	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1343	15	1	2	CTLA4	Small Cell Lung Cancer	0	0	0	0
+Pat1344	15	1	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1345	7	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1346	3	0	13	Combo	Melanoma	0	0	0	0
+Pat1347	3	1	41	PD-1/PDL-1	Prostate Cancer	1	0	0	0
+Pat1348	25	1	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1349	8	0	1	Combo	Melanoma	0	0	0	0
+Pat1350	1	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1351	1	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1352	3	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1353	8	1	4	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1354	9	0	20	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1355	5	1	3	CTLA4	Breast Cancer	0	0	0	0
+Pat1356	11	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1357	5	0	40	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1358	11	1	0	Combo	Uterine Sarcoma	0	0	0	0
+Pat1359	1	1	0	PD-1/PDL-1	Prostate Cancer	0	0	0	0
+Pat1360	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1361	10	0	26	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	0	1	1
+Pat1362	4	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1363	10	0	37	CTLA4	Melanoma	0	0	0	0
+Pat1364	9	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1365	24	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1366	42	1	10	CTLA4	Melanoma	0	0	0	0
+Pat1367	19	0	24	Combo	Melanoma	1	0	0	1
+Pat1368	15	0	4	PD-1/PDL-1	Germ Cell Tumor	1	0	0	0
+Pat1369	15	0	3	Combo	Cancer of Unknown Primary	0	0	0	0
+Pat1370	2	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1371	2	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1372	23	0	9	Combo	Head and Neck Cancer	0	0	0	0
+Pat1373	0	1	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Pat1374	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat1375	2	1	37	Combo	Melanoma	1	0	0	0
+Pat1376	21	0	49	Combo	Melanoma	1	0	0	0
+Pat1377	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1378	15	1	22	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1379	5	0	2	Combo	Melanoma	0	0	0	0
+Pat1380	3	0	1	PD-1/PDL-1	Hepatobiliary Cancer	1	0	0	0
+Pat1381	17	0	4	Combo	Bladder Cancer	0	0	0	0
+Pat1382	2	0	37	Combo	Melanoma	0	0	0	0
+Pat1383	13	0	17	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1384	11	0	6	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat1385	1	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1386	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1387	1	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1388	11	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1389	1	1	4	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1390	11	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1391	3	1	9	Combo	Bladder Cancer	0	0	0	0
+Pat1392	5	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1393	4	0	43	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1394	15	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1395	67	0	47	CTLA4	Melanoma	1	0	0	0
+Pat1396	3	0	7	PD-1/PDL-1	Breast Cancer	1	0	1	1
+Pat1397	17	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1398	14	0	3	Combo	Esophagogastric Cancer	1	0	0	0
+Pat1399	6	1	12	Combo	Melanoma	0	0	0	0
+Pat1400	5	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1401	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1402	45	0	0	CTLA4	Prostate Cancer	1	0	1	1
+Pat1403	0	0	91	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Pat1404	11	0	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1405	6	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1406	1	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1407	0	0	5	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1408	0	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1409	7	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1410	7	1	0	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1411	8	0	5	CTLA4	Prostate Cancer	1	0	1	1
+Pat1412	9	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1413	0	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1414	1	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1415	3	0	8	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1416	19	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1417	29	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	1
+Pat1418	7	0	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1419	18	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1420	3	1	2	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1421	4	1	6	Combo	Cervical Cancer	0	0	0	0
+Pat1422	3	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1423	4	1	6	PD-1/PDL-1	Pancreatic Cancer	1	0	1	1
+Pat1424	7	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1425	13	1	4	Combo	Melanoma	0	0	0	0
+Pat1426	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1427	5	1	7	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1428	9	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1429	14	0	50	PD-1/PDL-1	Pancreatic Cancer	1	0	1	1
+Pat1430	1	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1431	9	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1432	2	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1433	16	1	10	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1434	5	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1435	8	0	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1436	0	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1437	1	1	5	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1438	4	1	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1439	8	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1440	46	0	12	CTLA4	Melanoma	0	0	0	0
+Pat1441	2	0	4	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1442	57	0	67	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat1443	2	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1444	5	1	63	PD-1/PDL-1	Skin Cancer, Non-Melanoma	1	1	1	1
+Pat1445	31	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1446	1	1	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1447	13	1	4	Combo	Cervical Cancer	0	0	0	0
+Pat1448	1	0	46	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1449	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1450	10	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1451	7	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1452	10	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1453	50	0	0	CTLA4	Breast Cancer	0	0	0	0
+Pat1454	10	0	36	PD-1/PDL-1	Melanoma	0	0	0	1
+Pat1455	4	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1456	34	1	1	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat1457	42	0	3	CTLA4	Melanoma	0	0	0	0
+Pat1458	7	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1459	7	0	204	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat1460	7	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1461	7	0	32	Combo	Melanoma	1	0	0	0
+Pat1462	2	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1463	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1464	2	0	2	Combo	Melanoma	0	0	0	0
+Pat1465	5	0	14	Combo	Melanoma	0	0	0	0
+Pat1466	22	0	39	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1467	9	0	26	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1468	0	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1469	1	1	9	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1470	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1471	22	1	3	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat1472	0	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1473	20	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1474	4	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1475	9	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1476	19	1	2	CTLA4	Melanoma	0	0	0	0
+Pat1477	15	1	4	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1478	1	0	3	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1479	13	1	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1480	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1481	8	1	8	Combo	Bladder Cancer	0	0	0	0
+Pat1482	2	0	5	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1483	9	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1484	28	1	38	CTLA4	Melanoma	0	0	0	0
+Pat1485	55	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1486	7	0	29	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1487	8	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1488	9	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	1	1
+Pat1489	15	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1490	15	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1491	18	0	3	Combo	Melanoma	0	0	0	0
+Pat1492	21	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1493	1	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1494	21	0	8	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1495	1	1	7	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1496	2	0	9	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1497	0	0	5	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1498	4	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1499	1	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1500	6	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1501	4	1	10	PD-1/PDL-1	Esophagogastric Cancer	1	0	0	0
+Pat1502	10	0	9	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1503	6	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1504	6	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1505	20	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1506	22	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1507	2	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1508	3	1	2	PD-1/PDL-1	Nerve Sheath Tumor	0	0	0	0
+Pat1509	10	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1510	6	0	9	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat1511	30	0	46	CTLA4	Melanoma	1	1	1	1
+Pat1512	8	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1513	29	0	3	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Pat1514	16	1	13	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat1515	15	1	14	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1516	2	0	2	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1517	8	1	0	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1518	23	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1519	2	0	26	Combo	Melanoma	0	0	0	0
+Pat1520	1	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1521	14	0	2	CTLA4	Gastrointestinal Stromal Tumor	1	0	1	1
+Pat1522	13	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1523	3	0	19	CTLA4	Melanoma	0	0	0	0
+Pat1524	6	0	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1525	7	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1526	4	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1527	2	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1528	26	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1529	11	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1530	1	1	8	CTLA4	Melanoma	0	0	0	0
+Pat1531	8	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1532	0	0	24	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1533	1	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1534	14	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1535	0	0	3	PD-1/PDL-1	Mesothelioma	1	0	0	0
+Pat1536	3	1	28	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1537	2	1	21	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1538	10	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1539	2	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1540	6	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1541	25	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1542	11	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1543	13	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1544	7	1	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1545	0	0	3	PD-1/PDL-1	Breast Cancer	1	1	0	1
+Pat1546	13	1	22	Combo	Melanoma	0	0	0	0
+Pat1547	5	1	16	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1548	2	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1549	20	0	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1550	35	0	2	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1551	8	0	57	PD-1/PDL-1	Glioma	1	0	1	1
+Pat1552	9	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1553	15	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1554	1	1	7	CTLA4	Breast Cancer	0	0	0	0
+Pat1555	7	1	4	CTLA4	Melanoma	0	0	0	0
+Pat1556	5	0	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1557	3	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1558	9	0	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1559	29	0	3	CTLA4	Prostate Cancer	1	0	0	0
+Pat1560	18	1	26	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1561	15	0	15	Combo	Melanoma	0	0	0	0
+Pat1562	8	0	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1563	4	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1564	6	0	48	Combo	Melanoma	1	0	0	0
+Pat1565	3	1	6	CTLA4	Breast Cancer	0	0	0	0
+Pat1566	0	0	2	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1567	2	1	35	Combo	Bladder Cancer	0	0	0	1
+Pat1568	0	0	178	PD-1/PDL-1	Colorectal Cancer	1	1	1	1
+Pat1569	9	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1570	2	0	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1571	11	0	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1572	11	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Pat1573	0	1	3	Combo	Head and Neck Cancer	0	0	0	0
+Pat1574	8	0	3	Combo	Melanoma	0	0	0	0
+Pat1575	4	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1576	9	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1577	13	0	4	PD-1/PDL-1	Bladder Cancer	1	0	0	1
+Pat1578	7	1	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1579	2	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1580	6	0	30	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1581	23	0	2	Combo	Bladder Cancer	0	0	0	0
+Pat1582	7	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1583	1	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1584	5	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1585	3	1	6	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1586	3	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1587	22	0	10	PD-1/PDL-1	Esophagogastric Cancer	1	0	1	1
+Pat1588	17	0	8	Combo	Melanoma	0	0	0	0
+Pat1589	5	0	24	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat1590	3	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1591	2	0	6	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1592	1	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1593	1	1	8	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat1594	9	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1595	2	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1596	2	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1597	2	0	14	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1598	4	0	8	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1599	2	1	13	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1600	7	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1601	25	0	0	Combo	Renal Cell Carcinoma	1	0	0	1
+Pat1602	2	0	4	PD-1/PDL-1	Endometrial Cancer	1	0	0	1
+Pat1603	8	1	7	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat1604	40	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1605	17	0	6	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1606	6	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1607	22	0	69	PD-1/PDL-1	Colorectal Cancer	1	1	0	1
+Pat1608	15	1	48	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1609	4	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1610	11	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1611	1	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1612	4	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1613	16	0	9	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1614	0	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1615	2	1	5	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1616	21	0	13	Combo	Melanoma	1	0	1	1
+Pat1617	6	0	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1618	16	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1619	5	0	2	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1620	35	0	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1621	11	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1622	4	1	31	PD-1/PDL-1	Soft Tissue Sarcoma	1	0	0	1
+Pat1623	12	0	1	Combo	Melanoma	0	0	0	0
+Pat1624	6	0	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1625	1	1	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1626	0	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1627	2	1	6	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1628	5	1	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1629	6	0	8	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1630	1	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1631	3	1	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1632	5	0	21	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1633	31	1	4	CTLA4	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1634	24	0	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1635	2	1	4	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1636	21	0	1	Combo	Melanoma	0	0	0	0
+Pat1637	1	0	10	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1638	2	1	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1639	4	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1640	1	1	1	Combo	Prostate Cancer	0	0	0	0
+Pat1641	12	0	53	Combo	Melanoma	1	0	0	1
+Pat1642	14	0	4	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1643	19	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1644	8	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1645	1	1	19	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1646	10	1	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1647	1	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1648	1	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1649	47	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1650	10	0	20	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1651	8	0	8	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1652	11	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1653	0	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1654	2	1	2	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1655	2	1	0	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat1656	2	1	2	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Pat1657	0	0	5	PD-1/PDL-1	Esophagogastric Cancer	1	1	0	1
+Pat1658	7	1	4	PD-1/PDL-1	Renal Cell Carcinoma	1	0	0	0
+Pat1659	4	1	9	CTLA4	Colorectal Cancer	0	0	0	0
+Pat1660	18	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1661	10	0	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1662	5	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1663	0	0	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1664	9	1	9	Combo	Melanoma	1	0	1	1
+Pat1665	14	1	1	Combo	Ovarian Cancer	0	0	0	0
+Pat1666	7	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1667	1	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1668	30	1	1	CTLA4	Melanoma	0	0	0	0
+Pat1669	10	0	8	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1670	5	1	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1671	4	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1672	7	1	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1673	2	1	22	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1674	1	1	16	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1675	11	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1676	8	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1677	16	0	34	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1678	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1679	4	0	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1680	3	1	8	PD-1/PDL-1	Non-Hodgkin Lymphoma	1	1	0	1
+Pat1681	2	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1682	0	0	5	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1683	23	0	2	CTLA4	Prostate Cancer	1	0	1	1
+Pat1684	11	1	0	PD-1/PDL-1	Uterine Sarcoma	0	0	0	0
+Pat1685	1	0	7	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1686	22	0	8	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat1687	1	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1688	8	0	36	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1689	2	0	4	Combo	Pancreatic Cancer	0	0	0	0
+Pat1690	11	0	31	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1691	2	1	81	PD-1/PDL-1	Colorectal Cancer	0	0	0	1
+Pat1692	12	1	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1693	9	1	10	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1694	16	0	1	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1695	3	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1696	5	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1697	4	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1698	6	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1699	3	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1700	40	0	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1701	7	0	6	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1702	17	0	19	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1703	1	0	2	PD-1/PDL-1	Nerve Sheath Tumor	0	0	0	0
+Pat1704	49	0	2	CTLA4	Prostate Cancer	0	0	0	0
+Pat1705	33	0	12	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat1706	9	0	26	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1707	6	0	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1708	1	1	3	PD-1/PDL-1	Thyroid Cancer	0	0	0	1
+Pat1709	23	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1710	10	0	13	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1711	11	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1712	17	0	8	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1713	3	0	0	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1714	13	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1715	3	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1716	4	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1717	3	0	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1718	1	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1719	5	1	9	Combo	Head and Neck Cancer	0	0	0	0
+Pat1720	42	1	36	CTLA4	Melanoma	0	0	0	1
+Pat1721	11	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1722	4	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1723	14	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1724	11	1	13	PD-1/PDL-1	Head and Neck Cancer	1	0	0	1
+Pat1725	0	1	1	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1726	14	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1727	8	0	3	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1728	1	0	66	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat1729	45	0	4	CTLA4	Gastrointestinal Neuroendocrine Tumor	0	0	0	0
+Pat1730	6	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1731	2	1	5	PD-1/PDL-1	Small Cell Lung Cancer	1	0	1	1
+Pat1732	8	0	20	PD-1/PDL-1	Prostate Cancer	1	0	1	1
+Pat1733	1	0	36	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1734	7	1	9	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat1735	2	1	2	CTLA4	Melanoma	0	0	0	0
+Pat1736	29	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1737	3	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1738	3	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1739	3	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1740	10	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1741	4	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1742	25	0	10	Combo	Melanoma	0	0	0	0
+Pat1743	0	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1744	3	0	5	CTLA4	Breast Cancer	0	0	0	0
+Pat1745	18	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1746	17	0	4	Combo	Melanoma	0	0	0	0
+Pat1747	16	0	0	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1748	33	0	11	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1749	79	0	2	CTLA4	Mesothelioma	0	0	0	0
+Pat1750	2	0	9	Combo	Small Cell Lung Cancer	1	0	1	1
+Pat1751	24	0	20	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1752	8	1	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1753	17	0	27	Combo	Bladder Cancer	0	0	0	1
+Pat1754	9	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1755	15	0	5	Combo	Non-Small Cell Lung Cancer	1	0	0	0
+Pat1756	2	1	2	PD-1/PDL-1	Bone Cancer	0	0	0	0
+Pat1757	6	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1758	35	1	4	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1759	1	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1760	15	0	4	CTLA4	Breast Cancer	0	0	0	0
+Pat1761	5	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1762	1	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1763	6	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1764	19	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat1765	10	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1766	47	1	6	CTLA4	Melanoma	1	1	0	1
+Pat1767	29	0	19	Combo	Bladder Cancer	0	0	0	0
+Pat1768	18	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1769	6	1	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1770	2	0	15	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1771	37	0	4	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1772	13	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1773	1	1	3	Combo	Cancer of Unknown Primary	0	0	0	0
+Pat1774	4	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1775	4	1	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1776	8	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1777	4	0	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1778	1	1	26	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1779	6	0	7	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1780	44	0	33	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1781	2	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1782	14	0	10	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1783	13	1	4	Combo	Melanoma	0	0	0	0
+Pat1784	5	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1785	10	1	7	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1786	19	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1787	11	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1788	9	1	4	PD-1/PDL-1	Bladder Cancer	1	0	1	1
+Pat1789	10	0	9	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1790	23	0	13	Combo	Melanoma	0	0	0	0
+Pat1791	0	0	30	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1792	20	0	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1793	20	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1794	61	0	13	CTLA4	Melanoma	0	0	0	0
+Pat1795	10	0	5	Combo	Cervical Cancer	0	0	0	0
+Pat1796	13	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1797	18	0	28	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1798	1	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1799	0	0	2	PD-1/PDL-1	Colorectal Cancer	1	0	1	1
+Pat1800	9	0	3	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1801	6	1	4	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1802	9	0	4	Combo	Melanoma	0	0	0	0
+Pat1803	2	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1804	2	1	17	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1805	2	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1806	7	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1807	3	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1808	16	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1809	59	1	4	CTLA4	Melanoma	0	0	0	0
+Pat1810	2	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1811	6	0	156	PD-1/PDL-1	Endometrial Cancer	1	0	0	1
+Pat1812	1	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1813	3	0	10	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1814	28	0	3	CTLA4	Melanoma	0	0	0	0
+Pat1815	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1816	0	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1817	14	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1818	1	1	25	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1819	14	1	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1820	14	0	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1821	16	1	1	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1822	6	0	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1823	8	1	0	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	1
+Pat1824	10	0	26	Combo	Melanoma	0	0	0	0
+Pat1825	7	0	31	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1826	8	0	8	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1827	28	0	49	CTLA4	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1828	11	0	20	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1829	11	1	2	Combo	Ovarian Cancer	0	0	0	0
+Pat1830	16	0	52	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat1831	7	0	4	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1832	0	1	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1833	9	0	8	Combo	Melanoma	0	0	0	0
+Pat1834	5	1	2	CTLA4	Breast Cancer	0	0	0	0
+Pat1835	17	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1836	28	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1837	11	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1838	2	1	28	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1839	7	1	6	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1840	40	1	7	CTLA4	Melanoma	1	0	0	0
+Pat1841	7	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat1842	3	1	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat1843	15	0	43	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1844	1	0	3	PD-1/PDL-1	Pancreatic Cancer	0	0	0	1
+Pat1845	11	0	3	CTLA4	Prostate Cancer	0	0	0	0
+Pat1846	24	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1847	4	1	17	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat1848	3	1	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1849	18	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1850	8	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1851	10	1	4	CTLA4	Breast Cancer	0	0	0	0
+Pat1852	9	0	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1853	6	1	4	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1854	13	1	6	PD-1/PDL-1	Ampullary Carcinoma	0	0	0	0
+Pat1855	11	0	4	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Pat1856	9	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1857	12	0	4	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1858	2	0	81	Combo	Melanoma	1	0	1	1
+Pat1859	5	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1860	6	0	7	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1861	6	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1862	4	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1863	14	0	14	Combo	Melanoma	0	0	0	0
+Pat1864	31	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1865	4	1	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1866	11	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1867	17	0	3	Combo	Melanoma	0	0	0	0
+Pat1868	1	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1869	5	1	12	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1870	2	0	4	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1871	11	1	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1872	18	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1873	4	0	1	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat1874	4	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1875	2	1	13	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1876	6	1	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1877	18	0	5	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat1878	10	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1879	2	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Pat1880	3	0	9	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1881	3	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1882	2	1	6	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat1883	1	1	3	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1884	2	0	11	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1885	31	0	26	CTLA4	Melanoma	0	0	0	1
+Pat1886	10	0	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1887	7	1	11	PD-1/PDL-1	Colorectal Cancer	1	0	0	0
+Pat1888	14	0	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1889	7	1	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1890	11	1	0	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1891	4	1	3	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1892	3	0	13	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1893	3	0	18	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1894	13	0	4	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1895	9	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1896	1	1	2	PD-1/PDL-1	Mesothelioma	1	0	1	1
+Pat1897	26	0	4	Combo	Melanoma	1	1	0	1
+Pat1898	0	0	6	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1899	1	0	13	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat1900	13	1	2	CTLA4	Melanoma	0	0	0	0
+Pat1901	22	0	4	PD-1/PDL-1	Head and Neck Cancer	1	0	0	0
+Pat1902	5	1	14	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	1
+Pat1903	0	0	2	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1904	18	0	3	Combo	Ovarian Cancer	0	0	0	0
+Pat1905	12	0	4	CTLA4	Breast Cancer	0	0	0	0
+Pat1906	14	0	11	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1907	10	1	0	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1908	17	0	2	Combo	Melanoma	0	0	0	0
+Pat1909	2	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1910	2	0	4	Combo	Esophagogastric Cancer	0	0	0	0
+Pat1911	5	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1912	0	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1913	24	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1914	14	0	22	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1915	15	0	24	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1916	11	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1917	21	1	32	PD-1/PDL-1	Prostate Cancer	1	0	0	1
+Pat1918	1	1	0	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat1919	5	0	100	PD-1/PDL-1	Glioma	1	1	1	1
+Pat1920	2	0	112	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1921	26	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1922	8	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1923	7	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1924	4	1	40	PD-1/PDL-1	Glioma	1	0	0	1
+Pat1925	9	0	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1926	4	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1927	6	0	3	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1928	5	1	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1929	4	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1930	17	0	2	Combo	Melanoma	0	0	0	0
+Pat1931	0	0	4	Combo	Melanoma	0	0	0	0
+Pat1932	3	1	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat1933	2	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1934	0	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1935	7	0	10	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1936	6	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1937	1	1	13	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1938	10	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1939	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1940	6	0	4	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1941	15	0	2	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1942	14	0	5	Combo	Melanoma	0	0	0	0
+Pat1943	6	0	1	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat1944	2	0	56	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat1945	19	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1946	8	0	9	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1947	4	1	7	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1948	22	0	7	PD-1/PDL-1	Glioma	1	0	0	0
+Pat1949	10	0	11	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1950	1	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1951	11	1	2	Combo	Bladder Cancer	0	0	0	0
+Pat1952	5	1	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1953	18	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1954	2	1	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1955	1	0	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1956	19	0	1	CTLA4	Prostate Cancer	0	0	0	0
+Pat1957	33	0	55	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat1958	2	1	11	Combo	Melanoma	0	0	0	0
+Pat1959	6	1	1	CTLA4	Breast Cancer	0	0	0	0
+Pat1960	7	1	6	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1961	6	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1962	9	0	11	Combo	Melanoma	0	0	0	0
+Pat1963	4	0	10	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat1964	7	1	2	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1965	53	0	12	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1966	19	0	50	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat1967	3	0	6	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1968	8	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1969	3	0	13	PD-1/PDL-1	Cervical Cancer	0	0	0	1
+Pat1970	10	1	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat1971	67	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1972	15	0	6	PD-1/PDL-1	Renal Cell Carcinoma	1	0	1	1
+Pat1973	3	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1974	1	0	5	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1975	8	0	3	PD-1/PDL-1	Glioma	0	0	0	0
+Pat1976	7	1	6	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat1977	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1978	7	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1979	5	0	43	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat1980	22	0	10	Combo	Renal Cell Carcinoma	0	0	0	0
+Pat1981	3	0	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1982	9	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1983	3	0	2	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat1984	14	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat1985	2	0	7	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat1986	3	1	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1987	28	0	32	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat1988	8	1	7	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat1989	29	1	1	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat1990	1	1	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1991	4	1	0	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat1992	39	0	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1993	5	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat1994	22	1	0	Combo	Melanoma	0	0	0	0
+Pat1995	0	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat1996	0	1	34	Combo	Melanoma	0	0	0	0
+Pat1997	12	1	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat1998	1	1	10	Combo	Melanoma	0	0	0	0
+Pat1999	3	0	10	PD-1/PDL-1	Pancreatic Cancer	0	0	0	0
+Pat2000	27	1	1	Combo	Melanoma	0	0	0	0
+Pat2001	14	0	20	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2002	20	0	7	Combo	Cervical Cancer	1	0	0	0
+Pat2003	19	1	22	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat2004	19	0	100	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat2005	2	0	4	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat2006	9	0	0	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2007	8	0	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat2008	1	1	25	CTLA4	Esophagogastric Cancer	0	0	0	0
+Pat2009	6	0	6	PD-1/PDL-1	Breast Cancer	0	0	0	0
+Pat2010	14	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2011	21	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2012	2	1	2	PD-1/PDL-1	Mesothelioma	0	0	0	0
+Pat2013	26	0	2	CTLA4	Melanoma	0	0	0	0
+Pat2014	1	0	3	PD-1/PDL-1	Hepatobiliary Cancer	1	0	1	1
+Pat2015	1	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2016	5	0	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2017	19	0	3	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat2018	13	0	36	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2019	3	0	9	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2020	3	1	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2021	9	1	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2022	2	0	97	Combo	Melanoma	1	1	0	1
+Pat2023	5	1	18	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2024	3	1	5	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2025	2	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2026	4	0	21	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat2027	0	1	4	PD-1/PDL-1	Endometrial Cancer	0	0	0	1
+Pat2028	9	0	8	Combo	Melanoma	0	0	0	0
+Pat2029	17	0	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2030	0	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2031	8	0	2	Combo	Melanoma	0	0	0	0
+Pat2032	6	0	11	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2033	11	0	3	PD-1/PDL-1	Adrenocortical Carcinoma	0	0	0	0
+Pat2034	5	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2035	3	1	12	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat2036	35	0	16	CTLA4	Melanoma	0	0	0	1
+Pat2037	7	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2038	6	1	15	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat2039	11	1	1	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2040	19	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2041	7	1	4	Combo	Melanoma	0	0	0	0
+Pat2042	11	0	2	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2043	4	1	8	Combo	Melanoma	1	1	0	1
+Pat2044	3	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2045	10	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2046	3	0	12	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat2047	19	0	39	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2048	1	1	5	Combo	Small Cell Lung Cancer	0	0	0	0
+Pat2049	4	1	0	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2050	3	1	4	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat2051	11	1	10	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat2052	21	1	6	CTLA4	Melanoma	0	0	0	0
+Pat2053	13	1	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2054	28	0	36	CTLA4	Melanoma	1	0	0	0
+Pat2055	3	1	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2056	11	1	25	PD-1/PDL-1	Melanoma	1	0	0	0
+Pat2057	1	1	57	Combo	Melanoma	1	1	0	1
+Pat2058	23	1	6	CTLA4	Pancreatic Cancer	0	0	0	0
+Pat2059	5	0	0	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2060	2	1	10	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2061	1	0	3	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2062	8	1	3	PD-1/PDL-1	Ovarian Cancer	1	1	0	1
+Pat2063	19	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2064	21	0	4	PD-1/PDL-1	Cervical Cancer	0	0	0	0
+Pat2065	1	0	8	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2066	2	1	1	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2067	7	0	6	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2068	1	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat2069	6	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2070	3	0	5	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat2071	4	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2072	1	1	6	PD-1/PDL-1	Small Cell Lung Cancer	0	0	0	0
+Pat2073	25	0	24	CTLA4	Melanoma	0	0	0	0
+Pat2074	4	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2075	14	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2076	14	0	14	Combo	Bladder Cancer	1	0	0	0
+Pat2077	4	0	1	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat2078	14	1	5	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat2079	35	0	46	CTLA4	Melanoma	0	0	0	0
+Pat2080	1	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2081	1	1	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2082	7	1	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2083	14	0	9	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2084	11	0	12	PD-1/PDL-1	Cancer of Unknown Primary	1	0	0	0
+Pat2085	12	0	0	PD-1/PDL-1	Non-Hodgkin Lymphoma	0	0	0	0
+Pat2086	7	0	25	Combo	Melanoma	0	0	0	0
+Pat2087	2	0	1	Combo	Melanoma	0	0	0	0
+Pat2088	5	0	2	Combo	Melanoma	0	0	0	0
+Pat2089	14	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2090	1	0	73	PD-1/PDL-1	Melanoma	1	0	0	1
+Pat2091	4	0	25	PD-1/PDL-1	Head and Neck Cancer	0	0	0	1
+Pat2092	3	1	11	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	1	0	1
+Pat2093	0	0	6	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat2094	11	0	14	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2095	7	0	10	Combo	Non-Small Cell Lung Cancer	1	1	0	1
+Pat2096	13	1	18	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2097	4	1	12	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat2098	11	0	2	Combo	Melanoma	0	0	0	0
+Pat2099	1	0	3	PD-1/PDL-1	Anal Cancer	0	0	0	0
+Pat2100	25	0	7	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat2101	5	0	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat2102	8	0	10	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2103	6	1	10	PD-1/PDL-1	Cervical Cancer	1	0	0	0
+Pat2104	11	0	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat2105	3	1	3	PD-1/PDL-1	Salivary Gland Cancer	0	0	0	0
+Pat2106	10	0	6	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat2107	12	0	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2108	12	1	14	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2109	9	1	2	PD-1/PDL-1	Soft Tissue Sarcoma	0	0	0	0
+Pat2110	4	1	20	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2111	0	0	2	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2112	0	0	48	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat2113	0	0	6	Combo	Bladder Cancer	0	0	0	0
+Pat2114	20	0	2	PD-1/PDL-1	Hepatobiliary Cancer	0	0	0	0
+Pat2115	4	1	1	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2116	19	0	15	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2117	7	0	8	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2118	2	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2119	14	1	1	PD-1/PDL-1	Ovarian Cancer	0	0	0	0
+Pat2120	17	1	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat2121	32	1	5	CTLA4	Gastrointestinal Stromal Tumor	0	0	0	0
+Pat2122	7	1	32	Combo	Melanoma	0	0	0	0
+Pat2123	9	0	3	Combo	Cervical Cancer	1	1	0	1
+Pat2124	26	0	2	Combo	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2125	1	0	7	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat2126	12	1	13	PD-1/PDL-1	Bladder Cancer	0	0	0	0
+Pat2127	9	0	7	PD-1/PDL-1	Thyroid Cancer	1	1	0	1
+Pat2128	12	0	23	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat2129	0	1	20	PD-1/PDL-1	Thyroid Cancer	0	0	0	0
+Pat2130	4	0	5	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2131	2	1	8	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2132	13	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat2133	17	0	2	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat2134	19	0	4	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	0
+Pat2135	24	0	21	CTLA4	Melanoma	0	0	0	1
+Pat2136	11	0	2	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2137	0	0	23	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2138	21	1	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	0	1
+Pat2139	5	1	9	PD-1/PDL-1	Colorectal Cancer	0	0	0	0
+Pat2140	7	1	7	CTLA4	Melanoma	0	0	0	0
+Pat2141	4	1	2	Combo	Melanoma	0	0	0	0
+Pat2142	0	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2143	25	0	3	Combo	Melanoma	0	0	0	0
+Pat2144	7	1	78	CTLA4	Melanoma	0	0	0	0
+Pat2145	1	0	5	PD-1/PDL-1	Pancreatic Cancer	1	1	0	1
+Pat2146	1	0	20	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat2147	6	0	59	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat2148	2	0	2	Combo	Mesothelioma	0	0	0	0
+Pat2149	23	1	1	CTLA4	Mesothelioma	0	0	0	0
+Pat2150	4	0	9	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat2151	4	1	6	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat2152	6	1	2	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2153	10	1	42	PD-1/PDL-1	Esophagogastric Cancer	0	0	0	0
+Pat2154	5	0	21	Combo	Melanoma	1	0	1	1
+Pat2155	2	0	5	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2156	4	0	75	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2157	15	0	7	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2158	2	1	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2159	2	0	11	PD-1/PDL-1	Thyroid Cancer	0	0	0	1
+Pat2160	1	1	9	PD-1/PDL-1	Bladder Cancer	1	0	0	0
+Pat2161	6	0	1	PD-1/PDL-1	Non-Small Cell Lung Cancer	1	0	1	1
+Pat2162	4	0	2	PD-1/PDL-1	Cancer of Unknown Primary	0	0	0	0
+Pat2163	22	0	5	PD-1/PDL-1	Glioma	0	0	0	0
+Pat2164	39	0	49	CTLA4	Melanoma	0	0	0	1
+Pat2165	1	1	9	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2166	1	1	3	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2167	11	0	27	Combo	Melanoma	1	0	0	0
+Pat2168	7	0	6	PD-1/PDL-1	Melanoma	0	0	0	0
+Pat2169	20	0	8	Combo	Melanoma	0	0	0	0
+Pat2170	13	1	3	PD-1/PDL-1	Endometrial Cancer	0	0	0	0
+Pat2171	13	0	45	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	1
+Pat2172	12	1	3	Combo	Breast Cancer	1	1	0	1
+Pat2173	1	0	11	Combo	Melanoma	0	0	0	0
+Pat2174	19	0	5	Combo	Cervical Cancer	0	0	0	0
+Pat2175	49	0	8	PD-1/PDL-1	Melanoma	1	0	1	1
+Pat2176	26	0	4	Combo	Melanoma	0	0	0	0
+Pat2177	1	0	83	PD-1/PDL-1	Skin Cancer, Non-Melanoma	0	0	0	0
+Pat2178	5	0	7	Combo	Melanoma	0	0	0	0
+Pat2179	5	0	5	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
+Pat2180	2	0	7	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2181	3	1	10	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2182	5	0	12	PD-1/PDL-1	Head and Neck Cancer	0	0	0	0
+Pat2183	57	0	5	CTLA4	Melanoma	0	0	0	0
+Pat2184	0	1	6	PD-1/PDL-1	Non-Small Cell Lung Cancer	0	0	0	0
+Pat2185	4	1	4	PD-1/PDL-1	Renal Cell Carcinoma	0	0	0	0
